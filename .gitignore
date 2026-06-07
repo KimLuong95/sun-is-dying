@@ -1,0 +1,10 @@
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*~
+.vscode/
+.idea/
+
+# Drafts you may not want public yet — uncomment to keep local
+# /private/
