@@ -103,7 +103,9 @@ a sister lost long ago, a child who changed) — so each is a person first and a
 The asymmetry — keepers vs. leavers, the dying old vs. the surviving young — is the engine.
 **Emotional anchor: Yara ↔ Sela** (mother and uploaded daughter).
 
-## 9. Book 1 shape (PROVISIONAL — stays intimate; war only *born* here)
+## 9. Book 1 shape — **now fully outlined in [`/story`](story/02-book-1-outline.md)**
+The real catastrophe, ten twists, and a Yara-centred beat sheet (opening → midpoint → climax →
+final) now live in `/story`. The four-line sketch below is the original seed, kept for history.
 *Series-level escalation (Book 1 debate → Book 2 crisis → Book 3 war → Book 4+ final choice)
 lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-across-the-series).*
 
@@ -134,4 +136,7 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 10 | POV mechanics & prose voice | **Close third, one POV per scene**; full kit in [`/style`](style/00-voice-and-principles.md) | LOCKED |
 | 11 | Names (characters) | Working names set: Yara, Elias, Ren, Sela, Davin, Vesha (House Vael) | WORKING |
 | 11b | Naming **system** | **Names = distance from baseline**: kept / drifted / functional; mapped to branch; no apostrophe-soup. See [`world/04`](world/04-names-and-language.md) | LOCKED |
-| 12 | Story outline (per-book chapters) | Not yet written (`/story`) | OPEN — next |
+| 12 | The real catastrophe | **Clock broke (years, not centuries) · five fixes mutually exclusive & irreversible · Earth = last window on the origin-answer · inaction loses all.** See [`/story/00`](story/00-the-real-catastrophe.md) | PROPOSED (load-bearing) |
+| 13 | Book 1 outline | **Drafted** — Yara want/need + beat sheet; built on twists #3 & #8. See [`/story/02`](story/02-book-1-outline.md) | DRAFTED |
+| 14 | Twist bank | 10 constitution-safe twists logged in [`/story/01`](story/01-ten-twists.md) | DRAFTED |
+| 15 | Drafting Chapter 1 | Not started | OPEN — next |

@@ -4,7 +4,7 @@
 > dies and the scattered branches of humanity gather to decide the fate of Earth — and,
 > with it, who the legitimate heir of humanity really is.
 
-**Status:** 🟢 *Worldbuilding drafted — world, factions, religions, characters, and writing-style guides are in. Story outline is the next step.*
+**Status:** 🟢 *Worldbuilding done. Book 1 now has a real catastrophe, a twist bank, and a Yara-centred outline ([`/story`](story/02-book-1-outline.md)). Next: draft Chapter 1.*
 
 This repo is public **on purpose**: it exists so the author can share progress and spar with
 AI collaborators (Claude, ChatGPT). It is a living design doc, not a finished manuscript.
