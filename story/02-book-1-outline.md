@@ -73,8 +73,9 @@ temperature.
 ### ★ MIDPOINT — the daughter sees God *(twist #3 + the cosmic stake lands)*
 Sela — scanning Earth for her own faction's plan — **discovers the link**: Earth is the last
 unbroken place from which the origin-anomaly can be read, and the dying Sun will close that
-window forever. The fight over a sentimental rock becomes the fight over *the answer to why
-anything exists.* And the only person who could find it was the child Yara buried. **Yara has to
+window forever. The fight over a sentimental rock becomes the fight over *the last chance to ask
+why anything exists* (the anomaly never answers cleanly — it's a mirror; see Rule 7). And the only
+person who could find it was the child Yara buried. **Yara has to
 listen to "the copy" to understand the most important thing in history** — her certainty takes its
 first real crack. The board flips: now every faction is desperate, and Yara needs Sela.
 
@@ -82,8 +83,8 @@ first real crack. The board flips: now every faction is desperate, and Yara need
 Yara is caught between saving the cradle and holding her family, and the cosmic stake makes both
 sides righteous and frantic. She lies to one to protect another. Elias hints at something that
 unsteadies her further *(seed twist #1: the cradle may already be a restoration; seed twist #4:
-the clock may have been started on purpose).* The Children of Sol's **Faithful Dead** swell —
-people who refuse to be saved at all. Trust rots.
+humanity has faced a reckoning like this once before — and shattered).* The Children of Sol's
+**Faithful Dead** swell — people who refuse to be saved at all. Trust rots.
 
 ### ACT II TURN — someone moves *(the low point)*
 A family member acts irreversibly to seize Earth's fate — and it's someone Yara loves (strong
@@ -94,9 +95,9 @@ cost the reader). Her family fractures for real. Gripping has failed her complet
 
 ### ★ CLIMAX — *to hear it, the cradle must die* (twist #8)
 All threads converge as the Sun hits its first lethal convulsion at the deadline. The terrible
-shape of the choice is now clear: **the only way to read the answer — humanity's one shot at why
-it exists — consumes the living Earth in the act.** Keep the cradle and stay blind forever, or
-burn the cradle to hear. Yara, the Custodian sworn to preserve Earth above all, holds the choice
+shape of the choice is now clear: **the only way to look into the mirror — humanity's one chance
+to ask why it exists — consumes the living Earth in the act.** Keep the cradle and stay blind
+forever, or burn the cradle to look (and still not be sure what you saw). Yara, the Custodian sworn to preserve Earth above all, holds the choice
 in her hands. She cannot save everything. She chooses — *not cleanly, and at a cost that pays off
 her **need***: she lets go of the relic to protect the living future (her family, the answer),
 or refuses all five plans and finds a third path that costs her the Custodian identity itself.
@@ -114,8 +115,8 @@ no one knows what it said. **End on that.**
 ## What lands in Book 1 vs. later
 - **Committed for Book 1:** the catastrophe (all 4 layers), twist **#3** (Sela discovers the
   link), twist **#8** (cradle must die to be heard).
-- **Seeded in Book 1, paid later:** **#1** (cradle is a restoration), **#4** (the clock was
-  started), the first flicker of **#10** (the universe answers).
+- **Seeded in Book 1, paid later:** **#1** (cradle is a restoration), **#4** (humanity shattered
+  over this once before), the first flicker of **#10** (the mirror seems to stir).
 - **Held for Books 2+:** #2, #5, #6, #7, #9 and the reserve twists.
 
 ## The test (run before drafting Chapter 1)

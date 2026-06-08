@@ -4,7 +4,7 @@
 > dies and the scattered branches of humanity gather to decide the fate of Earth — and,
 > with it, who the legitimate heir of humanity really is.
 
-**Status:** 🟢 *Worldbuilding done. Book 1 now has a real catastrophe, a twist bank, and a Yara-centred outline ([`/story`](story/02-book-1-outline.md)). Next: draft Chapter 1.*
+**Status:** ✍️ *Drafting. Worldbuilding + Book 1 outline done; **Chapter 1 ("The Chairs") is drafted** — [`/manuscript`](manuscript/book-1/chapter-01-the-chairs.md). The test scene: does Yara's voice carry?*
 
 This repo is public **on purpose**: it exists so the author can share progress and spar with
 AI collaborators (Claude, ChatGPT). It is a living design doc, not a finished manuscript.
@@ -45,7 +45,8 @@ cross-linked. Planned structure (built out as the spine locks):
 /religions/            ← belief systems (anchored on the origin mystery)
 /characters/<name>/    ← bio + dated "growth" files as a character changes with age/events
 /style/                ← prose voice, dialogue rules, POV conventions
-/story/                ← series arc + per-book outlines  (not written yet)
+/story/                ← the real catastrophe, twist bank, Book 1 outline
+/manuscript/           ← the actual prose (Book 1, chapter by chapter)
 ```
 
 ## Working with AI collaborators

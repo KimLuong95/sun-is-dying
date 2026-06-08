@@ -11,7 +11,8 @@ Read this first. Keep it short. Keep it sacred.
 ## The one sentence
 > **"Humanity survived everything except agreement on what humanity is."**
 
-If a scene, a faction, or a chapter doesn't ultimately serve that sentence, question it.
+**Be fanatical about it.** If an idea doesn't make this sentence *stronger* — cut it, defer it, or
+shrink it. That's not a guideline; it's the filter everything passes through.
 
 ## Core premise (in five lines)
 - It is ~5 billion years in the future. **Humanity survived** — and spread across the galaxy.
@@ -66,6 +67,14 @@ began on Earth.
 This is an epic told through one family. Whenever the scale gets too big to feel, cut from the
 galaxy to the kitchen table. The ideas are carried by people or they are carried by no one.
 (Craft enforcement: [`/style`](style/00-voice-and-principles.md).)
+
+### Rule 7 — The anomaly is a mirror, not a fasit.
+The origin-mystery (was the universe *made*?) must **never** be answered — not fully, maybe not at
+all. It is a mirror: every faith and every branch sees its own face in it, and no one gets full
+confirmation. The moment it has a "correct answer," the project shrinks from *"what do people do
+when they believe they have the answer?"* down to *"what is the answer?"* — a lesser book. **The
+answer matters less than humanity's reaction to it.** *Dune* isn't stronger if God turns up;
+*Foundation* isn't stronger if Seldon shows the back of the book. Neither are we.
 
 ---
 

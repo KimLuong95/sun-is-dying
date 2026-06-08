@@ -33,15 +33,21 @@ has been left untouched. Across the whole galaxy, after five billion years of hu
 everything it touched, **Earth/Sol is the last such place** — kept pristine, uselessly, lovingly,
 by the Custodians. When the Sun dies, that window closes. **Forever.**
 
-So Earth isn't just the cradle of *life*. It may be humanity's one and only chance to answer the
-question every religion is built on: *were we made on purpose, or are we an accident?* Every
-faith's entire claim — the Makers, the Silence, the Next Cause — rides on an answer that dies
-with the Sun.
+So Earth isn't just the cradle of *life*. It may be humanity's one and only chance to **put the
+question to the universe at all** — the question every religion is built on: *were we made on
+purpose, or are we an accident?* Every faith's entire claim — the Makers, the Silence, the Next
+Cause — rides on a window that dies with the Sun.
+
+> **And here is the cruelty (Rule 7).** Reading the anomaly will *not* hand anyone a clean answer.
+> It's a **mirror** — each branch and each faith sees its own face in it, and no one gets full
+> confirmation. What dies with the Sun is therefore not *the answer*; it's humanity's last chance
+> to even **ask**. People won't go to war over a fact. They'll go to war over the last chance to
+> look into the mirror — and over what they're each certain they'll see.
 
 > **Why this doesn't break the constitution (Rule 5).** This is *not* "whoever grabs the Earth-
-> object wins." Reading the answer requires *being unbroken* — staying close to the original. So
-> the prize is tied to **identity itself**: the fight over who can read the universe's answer
-> *is* the fight over who is the truest human. The branches that "improved" themselves may have
+> object wins." Reading the anomaly requires *being unbroken* — staying close to the original. So
+> the prize is tied to **identity itself**: the fight over who can even look into the mirror *is*
+> the fight over who is the truest human. The branches that "improved" themselves may have
 > blinded themselves to the one thing that mattered. The McGuffin is *what you've become.*
 
 ## Layer 4 — Doing nothing is the worst outcome of all
@@ -58,7 +64,8 @@ catastrophe.
   things she's built her life on are now opposites.
 - **Civilizational:** the first irreversible act starts the war the constitution promised for
   later. Book 1 lights the fuse; it doesn't yet explode.
-- **Cosmic:** the answer to *why anything exists* is on a timer, and the timer is the dying Sun.
+- **Cosmic:** the last chance to *ask* why anything exists is on a timer — and the timer is the
+  dying Sun. (The asking, never a clean answer. Rule 7.)
 
 ---
 

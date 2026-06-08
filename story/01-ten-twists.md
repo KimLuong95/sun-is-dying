@@ -30,11 +30,18 @@ the catastrophe; pays off across the series.
 **Why it lands:** it forces Yara to *need* the daughter she buried. **Rule:** camera on a face
 (Rule 6). **When:** Book 1 midpoint. **Recommend: commit.**
 
-### 4. The Sun's death was triggered, not natural.
-**What:** the acceleration wasn't physics. Someone *caused* it — deciding humanity would never
-choose unless forced to. A candidate: Elias. Or Davin. Or a long-dead ancestor.
-**Why it lands:** the clock everyone trusts becomes a crime, and maybe a mercy. **Rule:** raises
-"were they right?" not "catch the bad guy" (Rule 4). **When:** Book 1 end / Book 2.
+### 4. Humanity has stood here before — and shattered.
+**What:** evidence surfaces that a reckoning like this one happened deep in the past — an earlier
+gathering over what humanity should become — and it did *not* end in agreement. It ended in the
+**schism that made the five branches.** The split wasn't slow drift; it was the wreckage of a
+choice humanity already failed once.
+**Why it lands:** it turns the Convocation from a one-off into an old wound reopening, and pours
+weight straight into the core sentence — *agreement on what humanity is* is the thing the species
+has broken on before. **Rule:** identity and legitimacy, no villain, the Sun's death stays a
+*natural* tragedy (Rule 4 + "deadline, not conflict"). **When:** seed in Book 1 via Elias; pay off
+Books 2+.
+> *(Replaces an earlier "the Sun's death was triggered" idea, cut because giving the deadline a
+> culprit turns the catalyst back into the conflict — which breaks the constitution.)*
 
 ### 5. Davin is the only one who's actually been saving them.
 **What:** the cold husband quietly built a continuation that survives no matter who wins the
@@ -77,6 +84,9 @@ who chose to become makers. Origin and destiny are the same loop.
 **Why it lands:** it answers the Silence vs. Makers' war in a way that's neither — and keeps the
 "other mind" human. **Rule:** the wonder is humanity's own descendants; never aliens (Rule 1).
 **When:** series climax — seed it early, pay it off last.
+> **Never confirmed (Rule 7).** This is one face the mirror shows — believed by some, proven by
+> none. The series ends on what people *do* with the possibility, not on a reveal. If we ever
+> "confirm" it, we've shrunk the book to a riddle with an answer key.
 
 ---
 
