@@ -1,6 +1,6 @@
 # Chapter One — The Chairs
 
-*Book 1 · draft 3.*
+*Book 1 · draft 4.*
 
 ---
 
@@ -22,7 +22,7 @@ And she had laid only the one place for her. There were several of Sela now, las
 
 She went to the window because she couldn't keep standing over the fork.
 
-Outside, the garden ran down to the wall in the last of the light, and past the wall the sky was crowded. They had been arriving for a month. Ships, and things that had stopped bothering to look like ships, holding still in their thousands above a world that had not held a crowd in longer than she could stand to think about. Tomorrow all of it would come down into one room and decide whether Earth went on. Tonight it was only lights — patient, packed close, hanging in the dark above the dead apple tree at the bottom of the garden.
+Outside, the garden ran down to the wall in the last of the light, and past the wall the sky was crowded. They had been arriving for a month. Ships, and things that had stopped bothering to look like ships, holding still in their thousands above a world that had not held a crowd in longer than she could stand to think about. Tomorrow all of it would come down into one room and decide whether Earth went on. Tonight it was only lights, packed close and patient, hanging above the dead apple tree at the bottom of the garden.
 
 The tree had been the last one. Not the last in the garden. The last one anywhere. There had been people once whose whole lives were spent keeping it, bringing it back from a thread of itself a hundred times over the ages, and they had run out of people before the tree ran out of dying. Now it was only wood, and she had never had the heart to take it down.
 
@@ -58,7 +58,7 @@ It was true. Yara had never told a soul. She'd half forgotten it was true until 
 
 "Sit down," Yara said, to the salt. "It's getting cold."
 
-Sela sat. The body folded into the chair and then went still. Completely still. None of the small constant shifting a person does without knowing they do it. It held the stillness a beat too long, the way a photograph holds it, and then Sela tucked one foot up underneath her the way she had since she was six years old.
+Sela sat. The body folded into the chair and then went still. Completely still. None of the small constant shifting a person does without knowing they do it. It held that stillness a beat too long, longer than a living thing knows how to, and then Sela tucked one foot up underneath her, the way she had since she was six years old.
 
 Nobody mentioned either thing.
 
@@ -86,7 +86,7 @@ Ren reached over and slid Sela's full glass two inches to the left, then back, j
 
 "You sent a star chart. The note said, *I'm fine, the chart proves it.*"
 
-Ren laughed, and Yara felt her own mouth go before she could stop it, and for one whole second it was just her two children being unbearable at her table the way they always had been. Then the second ended, the way they all ended now. One of them had a heartbeat. One of them had a very good machine. And watching the two of them grin at each other, she honestly could not have told you which conversation she was sitting in.
+Ren laughed, and Yara felt her own mouth go before she could stop it, and for one whole second it was just her two children being unbearable at her table, the way they always had. Then the second ended, like they all ended now. One of them had a heartbeat. One of them had a very good machine. And watching the two of them grin at each other, she honestly could not have told you which conversation she was sitting in.
 
 Elias ate slowly, the way he did everything, like a man who'd stopped expecting to be anywhere on time. "It's good," he told her. "It tastes like." And then he stopped, and his eyes went somewhere she couldn't follow, and he left the sentence where it was. Whatever it tasted like was gone, gone longer than the word *soup* had existed, and he was the only one at the table who'd ever had it, and even he couldn't get it all the way back.
 
@@ -108,7 +108,7 @@ He'd put his spoon down and was looking past her to the window, where the light 
 
 It was going red too fast.
 
-Yara turned. High up, the lights that had hung so patiently over the garden all month were moving now — scattering, all at once, the way birds go up off a field when something they can feel but not see walks into it. The light was sliding down the garden wall too quickly. The shadow of the dead apple tree stretched out across the grass and kept stretching. The gold went. The amber went while she watched. The red came on the way blood comes up through a bandage, an hour early, a full hour, and the room filled with it.
+Yara turned. High up, the lights that had hung so patiently over the garden all month were moving now — all of them at once, breaking apart, scattering. The light was sliding down the garden wall too fast. The shadow of the dead apple tree stretched across the grass and kept stretching. The gold went. The amber went while she watched. The red came up the way blood comes through a bandage, an hour early, a full hour, and the room filled with it.
 
 Nobody moved.
 

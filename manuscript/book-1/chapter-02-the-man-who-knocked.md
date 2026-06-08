@@ -1,10 +1,10 @@
 # Chapter Two — The Man Who Knocked
 
-*Book 1 · draft 1.*
+*Book 1 · draft 2.*
 
 ---
 
-Yara hadn't slept. The light had come back wrong and then it had come back at all, which was somehow the worse part: a thin, hard morning the colour of dishwater, an hour early, the way the dusk had been early. The day couldn't keep its own time anymore.
+Yara hadn't slept. The light had come back wrong, and then it had come back at all, which was the worse part: a thin, hard morning the colour of dishwater, an hour early, like the dusk before it. The day couldn't keep its own time anymore.
 
 She was in the garden when his ship came down past the dead apple tree. It came quietly. It set itself on the grass without bending a blade, and she thought, before she could help it, that he used to bang doors. Davin had banged every door he ever touched. Everything he did had gotten quieter over the years, until even arriving made no sound.
 
@@ -14,11 +14,11 @@ Yara found she had to look at the apple tree for a moment.
 
 "Hello, Yara," he said.
 
-He looked well. He always looked well now; he could look any way he chose, and what he chose was to look like the man would have looked at fifty. A little grey. Kind around the eyes. As if he'd aged alongside her instead of stepping out of age entirely. It was a courtesy, the face. She knew exactly what it was and it worked on her anyway, which she supposed was the whole point of a courtesy.
+He looked well. He always looked well now; he could look any way he chose, and what he chose was to look like the man she'd married, grown to fifty. A little grey. Kind around the eyes. As if he'd aged alongside her instead of stepping out of age entirely. It was a courtesy, the face. She knew exactly what it was, and it worked on her anyway, which she supposed was the whole point of a courtesy.
 
 "You felt it," she said. Not a question. "Last night."
 
-"Everyone felt it. Every world for a hundred light-years watched its star do arithmetic it wasn't supposed to do for another six centuries." He said it the way you'd mention a train running late. "The real numbers came in this morning. I expect the others are still working out how to tell you gently. I thought you'd rather hear it standing up."
+"Everyone felt it. Every world for a hundred light-years watched its star do sums it wasn't supposed to do for another six centuries." He said it the way you'd mention a train running late. "The real numbers came in this morning. I expect the others are still working out how to tell you gently. I thought you'd rather hear it standing up."
 
 "Tell me what."
 
@@ -28,7 +28,15 @@ She had known. Standing in the red light last night with her hand stopped over t
 
 "Then the Convocation," she started.
 
-"Becomes something else. Today. By tonight, I'd guess." He looked up at the wrong morning without squinting. Light was just information to him now. "You have to understand what the clock changes. While it was centuries, everyone could afford to be patient. They could let you keep the world like a held breath and feel noble about it. Now there's a deadline. And the moment people stop believing there's time to agree, they stop trying to agree. They act. Whoever acts first decides everything, and it can't be undone, and every one of them knows it. So they'll race. Politely, at first."
+"Becomes something else. Today. By tonight."
+
+"It was going to be centuries of talking," she said.
+
+"It was going to be centuries of *quiet.* That was the gift in it. Everyone could afford to be patient. They could let you keep the world like a held breath and feel noble about the waiting." He looked up at the wrong morning without squinting. Light was only information to him now. "Take the centuries away and the patience goes with them. The day people stop believing there's time to agree is the day they stop trying. They move instead. And whoever moves first decides all of it, and none of it can be undone."
+
+"You think they'll move."
+
+"I think they'll race. Politely, at first."
 
 "And you've decided to be first."
 
@@ -50,11 +58,11 @@ She almost asked him in. That was the horror of it. After all of it, her body st
 
 "No," he agreed, with no flicker at all. "It isn't. But it's what I have. And I'd still rather have it with you than not."
 
-For a moment neither of them said anything, and a bird she didn't have a name for sang in the dead tree as though the morning were ordinary, and Yara hated it, and was grateful for it, and couldn't have told the two feelings apart.
+For a moment neither of them spoke. Somewhere in the dead tree a bird was singing — one her people had brought back from a recording, long ago, before there stopped being people to do that kind of work — and it didn't know to stop.
 
 "Why did you come early?" she asked. "Ahead of all of them. You always hated being first to anything."
 
-"Because once it starts, I won't be able to get you out." He said it the way he said everything, plainly, like reading her the weather. "I came to ask you to leave. Tonight. Take Ren. Take Sela. Take the old man, if he'll come. Go before the talking turns into the doing."
+"Because once it starts, I won't be able to get you out." He said it plainly, the way he said everything now. "I came to ask you to leave. Tonight. Take Ren. Take Sela. Take the old man, if he'll come. Go before the talking turns into the doing."
 
 "Leave Earth."
 
