@@ -99,4 +99,28 @@ fight.*
 > the **Made** hold the machinery actually keeping Earth alive as the Sun dies. Davin is of the
 > Made. That is not a coincidence the family can afford to forget.
 
+---
+
+## What breaks when a branch refuses
+*Power is only real when refusal has consequences. This is the concrete leverage each branch
+holds — the thing that stops everyone else if it stops. Dramatize these; don't explain them.*
+
+- **The Made — life and shelter.** They keep the habitats, the ships, the repair-systems, and the
+  shade-lattice holding the dying Sun off Earth. Refuse, and civilization stops *breathing* —
+  air, heat, light, the sky itself. (Shown: [Ch.4](../manuscript/book-1/chapter-04-politely-at-first.md), the lattice flicker.)
+- **The Digitals — memory and distance.** They run the archives and the slow-light relays that
+  carry word between worlds. Refuse, and humanity goes deaf, dumb, and amnesiac: no messages
+  across the dark, no shared record, no agreed past. Whoever holds the memory holds the truth.
+- **The Ascended — the unsolved problem.** They produce the advances everyone leans on — the
+  medicine, the designs, the answers to problems no one else can crack. Refuse, and progress
+  stops; the hard problems (like outliving a star) go unsolved, and everyone else slowly dies of
+  things the Ascended could have fixed.
+- **The Choir — the end of loneliness, and one will.** They alone can offer the cure for the
+  oldest human pain, and they alone can act as a single mind at any scale, with no argument and no
+  delay. Refuse them and you refuse comfort — and you face the one rival that never hesitates and
+  never disagrees with itself.
+- **The Originists — legitimacy itself.** They keep the relics, the cradle, and the [First Stone](#).
+  Refuse their blessing and no one can be *recognized* as humanity's heir; every other claim stays
+  only a claim. Their leverage is the thing everyone else still secretly wants: to be called real.
+
 See also: [The five branches](00-overview.md) · [How power is won and wars are fought](../world/05-how-power-and-war-work.md)
