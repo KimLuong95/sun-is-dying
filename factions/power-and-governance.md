@@ -27,6 +27,16 @@ fight.*
   refusing to bless a rival's claim. Their weapon is the thing everyone else still secretly wants:
   to be called the true heirs.
 
+> **The First Stone** *(the legitimacy symbol — see [Ch.3](../manuscript/book-1/chapter-03-the-first-stone.md)).*
+> The Custodians keep the oldest surviving human-made object: a hand-axe from before the branches,
+> from when humanity was one. By the oldest law every branch still honours, it may be lifted only
+> by the recognized **heir of humanity** — and so it has lain untouched in its cradle since the
+> schism, because no one has ever been recognized. To reach for it is to declare *I am what a human
+> is, and the rest of you went wrong.* It is tangible, sacred, and means a different thing to every
+> branch (a tool / a hand / a pattern / a reaching-out) — which is exactly why it carries the whole
+> "what counts as human" question in one object. Whoever holds it speaks as humanity, not as a
+> faction.
+
 ## Ascended — the **Meritocracy** (rule of the Foremost)
 *Humanity = the drive to surpass its limits. So authority = proven capability.*
 - **Who governs:** whoever is demonstrably the most capable mind in the room — the Foremost. Not

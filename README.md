@@ -4,7 +4,7 @@
 > dies and the scattered branches of humanity gather to decide the fate of Earth — and,
 > with it, who the legitimate heir of humanity really is.
 
-**Status:** ✍️ *Drafting Book 1. [Ch.1 "The Chairs"](manuscript/book-1/chapter-01-the-chairs.md) (draft 2, revised on notes) and [Ch.2 "The Man Who Knocked"](manuscript/book-1/chapter-02-the-man-who-knocked.md) are in [`/manuscript`](manuscript/book-1/). The project now lives or dies on scenes, not lore.*
+**Status:** ✍️ *Drafting Book 1 — three chapters in [`/manuscript`](manuscript/book-1/): [The Chairs](manuscript/book-1/chapter-01-the-chairs.md), [The Man Who Knocked](manuscript/book-1/chapter-02-the-man-who-knocked.md), [The First Stone](manuscript/book-1/chapter-03-the-first-stone.md). The project now lives or dies on scenes, not lore.*
 
 This repo is public **on purpose**: it exists so the author can share progress and spar with
 AI collaborators (Claude, ChatGPT). It is a living design doc, not a finished manuscript.
