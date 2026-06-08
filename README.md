@@ -4,7 +4,7 @@
 > dies and the scattered branches of humanity gather to decide the fate of Earth — and,
 > with it, who the legitimate heir of humanity really is.
 
-**Status:** 🟡 *Pre-writing — agreeing the story spine before building out worldbuilding files.*
+**Status:** 🟢 *Worldbuilding drafted — world, factions, religions, characters, and writing-style guides are in. Story outline is the next step.*
 
 This repo is public **on purpose**: it exists so the author can share progress and spar with
 AI collaborators (Claude, ChatGPT). It is a living design doc, not a finished manuscript.

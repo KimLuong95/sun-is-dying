@@ -71,40 +71,34 @@ This is what makes the inheritance fight *holy*, not merely political.
 
 ---
 
-## 8. OPEN — the family structure (BEING DECIDED)
+## 8. The family structure (DECIDED — full detail in [`/characters`](characters/00-cast-and-relationships.md))
 
-"One family, one crisis" is locked: the cast *is* the story, multi-POV within the family,
-single timeframe. **How the family maps onto the conflict is not yet decided.**
+"One family, one crisis" is locked. **The family is House Vael, the Originist Custodians of
+Earth**, and the five branches enter through *relationships that broke in different directions* —
+not as a tidy "one of each."
 
-**Rejected:** ChatGPT's original "one member per branch" (five branches all inside one nuclear
-family). Reason: too neat — it reads as a faction chart, turns relatives into mouthpieces, and
-strains the plausibility of them even being a family. A hive-mind member is also dramatically
-inert (speaks as "we").
+**Rejected:** ChatGPT's original "one member per branch." Reason: too neat — it reads as a
+faction chart, turns relatives into mouthpieces, and strains the plausibility of them even being
+a family.
 
-**Current recommendation (Claude):** anchor the family hard in **one** branch and make the
-fracture about the few who *leave* it — a norm and its betrayals, which hurts more than a
-balanced debate. Proposed shape:
+**The chosen shape** — anchor the family in one branch (Originist) and let the fracture be about
+the few who *left* it; bring the most alien branches in as a returned relative and an estranged
+spouse. Final cast (see `/characters` for full bios):
 
-- **The Eldest — "the Memory."** The last continuous memory of the *real* Earth; a living
-  archive. Wants to preserve. The past, refusing to die. (Keep regardless of final structure.)
-- **The Matriarch — the Custodian.** Originist; bound to Earth by duty; would die with the
-  cradle before betraying it. The present, trapped between her father and her children.
-- **The children — the defectors (1–2, not 5).** The future, each tempted by a different
-  escape from death: one **Ascended** (the seductive next step), one **Uploaded/Digital**
-  (*"You didn't survive, you copied." / "I'm more myself than ever."*).
-- **The external threat — a returned relative.** Someone who left the line long ago and now
-  speaks for the **Choir** or the **Made** — family by blood, alien beyond recognition. This is
-  who turns debate into war.
+- **Yara Vael** — the Matriarch and Custodian. **Originist.** Main POV. *(keepers)*
+- **Elias Vael, "the Memory"** — the family's one forbidden exception, kept alive past any
+  natural life to remember the real Earth. **Originist (the exception).** Won't take a side.
+- **Ren Vael** — Yara's son. **Ascended.** The one who outgrew her.
+- **Sela Vael** — Yara's daughter. **Digital (uploaded).** "I'm more myself than ever."
+- **Davin** — Yara's estranged husband, father of Ren & Sela. **The Made.** Calm, kind, certain
+  Earth was never worth saving.
+- **Vesha** — Yara's sister, gone into **the Choir** long ago; returns wearing a familiar face
+  and a stranger's "we."
 
-Result: all five branches still appear (three in the blood, two as the encroaching "other"),
-but every one is a *person* first. The asymmetry — keepers vs. leavers, the dying old vs. the
-surviving young, duty vs. escape — is the engine.
-
-**Decision needed:**
-1. Run with the recommendation above, **or** go tighter (Matriarch + one defecting child +
-   the Eldest; everything else external), **or** re-steer around a specific relationship.
-2. Which relationship is the emotional anchor? (mother/daughter? the returned monster? the old
-   man who remembers?)
+Result: all five branches appear, but every one enters through a *wound* (a marriage that cooled,
+a sister lost long ago, a child who changed) — so each is a person first and a "branch" second.
+The asymmetry — keepers vs. leavers, the dying old vs. the surviving young — is the engine.
+**Emotional anchor: Yara ↔ Sela** (mother and uploaded daughter).
 
 ## 9. Book 1 shape (PROVISIONAL — stays intimate; war only *born* here)
 1. **The threshold.** Sun crosses into final collapse; Earth's last habitability fails; the
@@ -127,6 +121,10 @@ surviving young, duty vs. escape — is the engine.
 | 3 | The Silence | **Absolutely alone** — but hints the Big Bang was *not* random | LOCKED |
 | 4 | Earth's status / engine | **Sacred relic, dying now**; family are its Keepers; Convocation decides its fate | LOCKED |
 | 5 | Origin / Big Bang mystery | **Religious backbone, present from Book 1** | LOCKED |
-| 6 | Family structure | "One member per branch" **rejected**; Originist-rooted + defectors recommended | OPEN |
-| 7 | Names (House, characters, places) | Working names only (House Vael, etc.) | OPEN |
-| 8 | POV mechanics & prose voice | Not yet defined (`/style`) | OPEN |
+| 6 | Family structure | **House Vael (Originist); branches enter via broken relationships**; anchor = Yara ↔ Sela | LOCKED |
+| 7 | Galactic order | **No central government** — humanity is a patchwork; the Convocation can't compel anyone | LOCKED |
+| 8 | Branch geography | **Largely separated** — each branch dominates its own kind of space | LOCKED |
+| 9 | Who holds Earth | **The Custodians (House Vael)** under an ancient, fraying mandate | LOCKED |
+| 10 | POV mechanics & prose voice | **Close third, one POV per scene**; full kit in [`/style`](style/00-voice-and-principles.md) | LOCKED |
+| 11 | Names (characters) | Working names set: Yara, Elias, Ren, Sela, Davin, Vesha (House Vael) | WORKING |
+| 12 | Story outline (per-book chapters) | Not yet written (`/story`) | OPEN — next |
