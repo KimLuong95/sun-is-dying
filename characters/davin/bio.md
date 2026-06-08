@@ -3,6 +3,12 @@
 **Branch:** The Made · **Role:** Yara's estranged husband; father of Ren and Sela · **POV:**
 occasionally (a cold, clear, weirdly kind voice)
 
+> **On the name:** he was born with an Originist name — a "David." As he remade himself into a
+> machine, the name wore down to **Davin**, and he let the house name "Vael" fall away entirely.
+> Among the Made he carries a cold functional designation; only his family still calls him the
+> worn human echo. The gap between *David* and what he is now is the whole tragedy of him.
+> (See [Names & Language](../../world/04-names-and-language.md).)
+
 ## Snapshot
 Davin and Yara loved each other for a long time. Then, slowly, he stopped believing in the things
 she'd die for — and instead of fighting about it, he simply left, piece by piece, until the man

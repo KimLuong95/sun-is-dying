@@ -3,6 +3,11 @@
 **Branch:** The Choir · **Role:** Yara's sister, long gone into the union · **POV:** no — and
 that's deliberate (we never get inside the "we")
 
+> **On the name:** *Vesha* is her Originist birth-name. The Choir itself has **no personal name** —
+> it is "we," or a functional Concord-designation. It wears "Vesha" only because it knows Yara
+> will listen to that name. The name is bait made of love.
+> (See [Names & Language](../../world/04-names-and-language.md).)
+
 ## Snapshot
 Before there was a wound between Yara and her children, there was Vesha — her older sister, who
 joined the Choir when they were both young. For most of Yara's life "Vesha" has been a held

@@ -22,6 +22,10 @@ stay — is the engine. Everyone is a person first and a "branch" second.
 | **[Davin](davin/bio.md)** | The Made | Yara's estranged husband, father of Ren and Sela. Rebuilt himself as a machine. Calm, kind, and certain Earth was never worth saving. |
 | **[The Choir / Vesha](vesha-choir/bio.md)** | The Choir | Yara's sister, gone into the union long ago. Returns wearing a familiar face and a stranger's "we." |
 
+> **Names carry the theme.** Each name signals how far that person stands from baseline humanity —
+> kept (Yara, Elias, Sela), drifted (Ren, Davin ← *David*), or none at all (the Choir). Full logic
+> and per-character decode: [Names & Language](../world/04-names-and-language.md).
+
 ## The web of wounds (this is the real map)
 - **Yara ↔ Sela** — *the deepest cut.* A mother grieving a daughter who is standing right in
   front of her, arguing that she never died. (See [Digitals](../factions/digitals.md).)

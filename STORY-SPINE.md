@@ -133,4 +133,5 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 9 | Who holds Earth | **The Custodians (House Vael)** under an ancient, fraying mandate | LOCKED |
 | 10 | POV mechanics & prose voice | **Close third, one POV per scene**; full kit in [`/style`](style/00-voice-and-principles.md) | LOCKED |
 | 11 | Names (characters) | Working names set: Yara, Elias, Ren, Sela, Davin, Vesha (House Vael) | WORKING |
+| 11b | Naming **system** | **Names = distance from baseline**: kept / drifted / functional; mapped to branch; no apostrophe-soup. See [`world/04`](world/04-names-and-language.md) | LOCKED |
 | 12 | Story outline (per-book chapters) | Not yet written (`/story`) | OPEN — next |
