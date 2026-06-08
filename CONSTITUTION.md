@@ -76,6 +76,16 @@ when they believe they have the answer?"* down to *"what is the answer?"* — a 
 answer matters less than humanity's reaction to it.** *Dune* isn't stronger if God turns up;
 *Foundation* isn't stronger if Seldon shows the back of the book. Neither are we.
 
+### Rule 8 — Conflict is identity warfare, not artillery.
+A civilization this old does not fight with rifles over hills. The scarce things are **attention**
+(who gets to think), **legitimacy** (who is the true heir), and **access** (to Earth, the last
+relic). The branches wage war with their own natures — Digitals copy and edit, the Choir absorbs,
+the Made rebuild and withhold, the Ascended modify, the Originists restrict — and the battlefield
+is always *what counts as human.* Crude force exists only at the edges, as the lowest resort. If
+the war ever becomes a normal space-war (fleets, beam weapons, capture the planet), that's the
+failure state — stop and rewrite. (Detail: [`/factions/power-and-governance.md`](factions/power-and-governance.md)
+and [`/world/05`](world/05-how-power-and-war-work.md).)
+
 ---
 
 ## Core themes

@@ -139,4 +139,7 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 12 | The real catastrophe | **Clock broke (years, not centuries) · five fixes mutually exclusive & irreversible · Earth = last window on the origin-answer · inaction loses all.** See [`/story/00`](story/00-the-real-catastrophe.md) | PROPOSED (load-bearing) |
 | 13 | Book 1 outline | **Drafted** — Yara want/need + beat sheet; built on twists #3 & #8. See [`/story/02`](story/02-book-1-outline.md) | DRAFTED |
 | 14 | Twist bank | 10 constitution-safe twists logged in [`/story/01`](story/01-ten-twists.md) | DRAFTED |
-| 15 | Drafting Chapter 1 | Not started | OPEN — next |
+| 15 | Power & governance | **Each branch has a non-geographic institution growing from its definition of humanity** (Custodian Houses · Meritocracy · Memory Assemblies · Resonances · Foundries). See [`/factions/power-and-governance.md`](factions/power-and-governance.md) | LOCKED |
+| 16 | How war works | **Identity warfare, not artillery** — scarce things are attention, legitimacy, access; battlefield is "what counts as human." Constitution Rule 8 + [`/world/05`](world/05-how-power-and-war-work.md) | LOCKED |
+| 17 | Manuscript | Ch.1 "The Chairs" (draft 3 — future-texture added) · Ch.2 "The Man Who Knocked" (draft 1) | DRAFTING |
+| 18 | Chapter 3 — the Convocation | Not started | OPEN — next |

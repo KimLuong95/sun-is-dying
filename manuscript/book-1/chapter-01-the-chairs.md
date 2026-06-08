@@ -1,6 +1,6 @@
 # Chapter One — The Chairs
 
-*Book 1 · draft 2.*
+*Book 1 · draft 3.*
 
 ---
 
@@ -17,6 +17,14 @@ That was the one she kept stopping on. A plate, a glass, and the small bone-hand
 Sela didn't eat now.
 
 So the plate was a kindness, or it was a cruelty, and Yara had stood over it long enough to decide, and she hadn't.
+
+And she had laid only the one place for her. There were several of Sela now, last anyone had told her — running in rooms Yara didn't ask about, thinking thoughts she would never hear, all of them as much her daughter as the one that would walk through the door tonight. She had laid one plate. She didn't know if that was a hope or an insult, and there was no one left alive she could have asked.
+
+She went to the window because she couldn't keep standing over the fork.
+
+Outside, the garden ran down to the wall in the last of the light, and past the wall the sky was crowded. They had been arriving for a month. Ships, and things that had stopped bothering to look like ships, holding still in their thousands above a world that had not held a crowd in longer than she could stand to think about. Tomorrow all of it would come down into one room and decide whether Earth went on. Tonight it was only lights — patient, packed close, hanging in the dark above the dead apple tree at the bottom of the garden.
+
+The tree had been the last one. Not the last in the garden. The last one anywhere. There had been people once whose whole lives were spent keeping it, bringing it back from a thread of itself a hundred times over the ages, and they had run out of people before the tree ran out of dying. Now it was only wood, and she had never had the heart to take it down.
 
 "You used to lay seven," Elias said behind her.
 
@@ -100,7 +108,7 @@ He'd put his spoon down and was looking past her to the window, where the light 
 
 It was going red too fast.
 
-Yara turned. The light was sliding down the garden wall too quickly, and the shadow of the dead apple tree stretched out across the grass and kept stretching. The gold went. The amber went while she watched. The red came on the way blood comes up through a bandage, an hour early, a full hour, and the room filled with it.
+Yara turned. High up, the lights that had hung so patiently over the garden all month were moving now — scattering, all at once, the way birds go up off a field when something they can feel but not see walks into it. The light was sliding down the garden wall too quickly. The shadow of the dead apple tree stretched out across the grass and kept stretching. The gold went. The amber went while she watched. The red came on the way blood comes up through a bandage, an hour early, a full hour, and the room filled with it.
 
 Nobody moved.
 
