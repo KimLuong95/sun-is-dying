@@ -20,13 +20,18 @@ Put those together and you get the only question that has ever really mattered t
 Nobody can prove an answer. So they believe one instead. And people will do almost anything for
 what they believe they're *for*.
 
-## The four great answers
-| Belief | The clue means… | So humanity should… |
+## The great answers
+The first four answer *why the universe exists*. The last two answer *what we owe our origin and
+our own selves* — and matter just as much.
+
+| Belief | What it's really about | So humanity should… |
 |---|---|---|
 | **[The Makers' Faith](the-makers-faith.md)** | We were created on purpose. | Find our purpose and fulfill it. |
 | **[The Silence](the-silence.md)** | Nothing. We're an accident. | Make our own meaning; owe no one. |
 | **[The Next Cause](the-next-cause.md)** | We're meant to become makers too. | Birth the next universe before we die. |
 | **[The Cradle](the-cradle.md)** | Earth is holy ground. | Protect where we began, at any cost. |
+| **[Continuity](continuity.md)** | A copy isn't you; only the unbroken thread is. | Never sever the self — uploading is death. |
+| **[Children of Sol](children-of-sol.md)** | The Sun is our mother, and she is dying. | Witness her, preserve her, or die with her. |
 
 ## The important twist
 **Religion does not match the branches.** You can find Makers' Faith believers among the cold

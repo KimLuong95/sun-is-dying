@@ -38,19 +38,21 @@ The full worldbuilding will live in dedicated Markdown files, one fact/topic per
 cross-linked. Planned structure (built out as the spine locks):
 
 ```
-/STORY-SPINE.md        ← the agreed premise, decisions, and open questions  (start here)
+/CONSTITUTION.md       ← the highest law: design principles that keep the universe unique (READ FIRST)
+/STORY-SPINE.md        ← the agreed premise, decisions, and open questions
 /world/                ← universe, cosmology, deep-time, Earth, planets
 /factions/             ← one file per branch of humanity
 /religions/            ← belief systems (anchored on the origin mystery)
 /characters/<name>/    ← bio + dated "growth" files as a character changes with age/events
 /style/                ← prose voice, dialogue rules, POV conventions
-/story/                ← series arc + per-book outlines
+/story/                ← series arc + per-book outlines  (not written yet)
 ```
 
 ## Working with AI collaborators
-[`STORY-SPINE.md`](STORY-SPINE.md) is the single source of truth for what's **decided** vs.
-**open**. When sparring with another AI, point it there. Open questions are flagged so a
-collaborator can weigh in without re-deciding settled material.
+Point any AI at [`CONSTITUTION.md`](CONSTITUTION.md) **first** — it's the law that keeps the world
+on-direction as it grows. Then [`STORY-SPINE.md`](STORY-SPINE.md) for what's **decided** vs.
+**open**. Open questions are flagged so a collaborator can weigh in without re-deciding settled
+material.
 
 ## Decision log
 See the bottom of [`STORY-SPINE.md`](STORY-SPINE.md#decision-log) for every locked choice

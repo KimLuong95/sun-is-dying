@@ -1,7 +1,10 @@
 # Story Spine — *Sun Is Dying*
 
-This is the single source of truth for the series concept. It separates what is **LOCKED**
-from what is still **OPEN**. When sparring with another AI, start here.
+> **Governed by [`CONSTITUTION.md`](CONSTITUTION.md)** — the inviolable design principles. Read
+> that first; this file applies it to specific story decisions.
+
+This is the source of truth for the specific *story*. It separates what is **LOCKED**
+from what is still **OPEN**. When sparring with another AI, read the constitution, then start here.
 
 ---
 
@@ -101,6 +104,9 @@ The asymmetry — keepers vs. leavers, the dying old vs. the surviving young —
 **Emotional anchor: Yara ↔ Sela** (mother and uploaded daughter).
 
 ## 9. Book 1 shape (PROVISIONAL — stays intimate; war only *born* here)
+*Series-level escalation (Book 1 debate → Book 2 crisis → Book 3 war → Book 4+ final choice)
+lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-across-the-series).*
+
 1. **The threshold.** Sun crosses into final collapse; Earth's last habitability fails; the
    Convocation is called; the family returns to the relic for what becomes the last reunion.
 2. **The argument.** Political/religious/philosophical debate; old wounds reopen; the Eldest

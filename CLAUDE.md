@@ -9,7 +9,9 @@ five branches that disagree about what a human even is; one family (House Vael) 
 Earth and is torn apart along the same lines. Full concept: [`STORY-SPINE.md`](STORY-SPINE.md).
 
 ## Where everything lives
-- `STORY-SPINE.md` — premise, locked decisions, decision log. **Single source of truth.**
+- `CONSTITUTION.md` — the **highest law**: the inviolable design principles that keep the universe
+  from going generic. If anything conflicts with it, the constitution wins. **Read this first.**
+- `STORY-SPINE.md` — premise and locked story decisions, built on top of the constitution.
 - `world/` — setting, Earth, how humanity is organized.
 - `factions/` — the five branches (Originists, Ascended, Digitals, the Choir, the Made).
 - `religions/` — four belief systems built on the "was the universe made?" mystery.
