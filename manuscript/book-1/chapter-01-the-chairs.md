@@ -1,6 +1,6 @@
 # Chapter One — The Chairs
 
-*Book 1 · draft 4.*
+*Book 1 · draft 5.*
 
 ---
 
@@ -72,7 +72,7 @@ They sat, the four of them and the empty places, and the candles Yara had lit be
 
 "For the talking."
 
-Tomorrow they would sit in a bigger room with people who weren't family and decide what to do about the world. Yara had kept that world her whole life, and her mother before her, and tomorrow strangers would help her decide whether to save it, and how, and what the word *save* even meant when no two of them meant the same thing by it. She'd stopped being able to hold tomorrow in her head without her hands going cold. So she thought about the soup, and passed it, and watched her family pretend.
+Tomorrow they would sit in a bigger room with people who weren't family and decide what to do about the world. Yara had kept that world her whole life, and her mother before her, and tomorrow strangers would help her decide whether to save it, and how, and what the word *save* even meant when no two of them meant the same thing by it. And before any of them said a word, she would do the keeper's part: go down under the oldest room of the house and bring up the thing her line had kept in the dark since before the branches had names, and lay it in front of them all. She'd stopped being able to hold tomorrow in her head without her hands going cold. So she thought about the soup, and passed it, and watched her family pretend.
 
 Ren reached over and slid Sela's full glass two inches to the left, then back, just to have done something with his hands. "You're not going to drink that."
 

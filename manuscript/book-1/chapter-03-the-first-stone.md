@@ -1,6 +1,6 @@
 # Chapter Three — The First Stone
 
-*Book 1 · draft 1.*
+*Book 1 · draft 2.*
 
 ---
 
@@ -14,9 +14,11 @@ Yara set it in its cradle at the center of the floor and stepped back, and the m
 
 It did not look like danger. It looked like a funeral where no one could agree on who had died.
 
+The galleries had filled before dawn — the lesser Houses, the witnesses, and somewhere up in that dark her own children, whom she had not let herself look for.
+
 They came down to the floor in the order the old courtesies demanded, which was the order Yara's heart could least afford.
 
-The Ascended sent one woman. No one had elected her; no one asked who had. She was simply, plainly, the most capable mind that could be spared to the room, and everyone in it knew it the moment she entered — the small animal certainty that the most important person had just arrived. She took a seat without being shown one, and was right about which seat it should be.
+The Ascended sent one woman. No one had elected her; no one asked who had. Her people did not send names to a room like this; they sent the Foremost — whoever, on the day, was simply the most capable mind that could be spared — and everyone knew her the moment she entered, the small animal certainty that the most important person had just arrived. She took a seat without being shown one, and was right about which seat it should be.
 
 The Digitals sent a man, and then the same man again, and again, until nine of him sat along one bench — nine bodies wearing a single face, each carrying a different thousand years of the same life. When one of them spoke, later, the other eight would shape the words a half-beat behind, and Yara would have to look at the floor.
 
@@ -30,11 +32,13 @@ It wore the face Yara remembered from before — Vesha at twenty-six, who had la
 
 "We've missed you." And under the words, beneath them, Yara felt it — not a roar, just a vast, gentle pressure of agreement, fifty thousand minds or fifty million all meaning *we've missed you* at once, every one of them having been, at some moment, the woman now wearing her sister's face. The whole Choir had missed her. Through one mouth. In Vesha's voice.
 
+Elias had stayed at the house. He had asked her, gently, not to make him watch, and she had been glad, and ashamed of being glad. Whatever this room decided a human being was, the one man who remembered humanity whole would not be made to hear it.
+
 Yara took her place beside the Stone, as its keeper, and held herself very still, and thought how strange it was that the worst day of her life had such good manners.
 
 There were forms to keep, and they kept them. An old man of one of the lesser Houses spoke the convening words in a language even Elias barely held anymore, and the hall let him, because the forms were nearly the last thing they all still shared. For one cowardly moment Yara let herself believe they might just do this — say the old words, sit the old silences, and go home to die politely as themselves.
 
-Then the Ascended woman spoke, and that was over.
+Then the Foremost spoke, and that was over.
 
 "We should lift it," she said.
 
@@ -56,7 +60,7 @@ Then they turned to her.
 
 Of course they did. The Stone had one keeper, and the keeper was the only hand permitted to take it from its cradle — not to claim it, never to claim it, only to lift it and hold it out to the room, so the choosing could begin. Keeper after keeper had carried it and set it down and carried it and set it down and never once held it out, because no keeper had ever been cornered the way Yara was cornered now, with a dying star outside and a room full of her own blood waiting.
 
-"Custodian." The Ascended woman was not unkind. "Lift it. Let us begin."
+"Custodian." The Foremost was not unkind. "Lift it. Let us begin."
 
 Yara looked at the floor of the hall. At Davin, who had crossed half a galaxy to tell her to run. At nine quiet copies of one man. At the thing wearing her sister, and the fifty thousand behind its eyes. At Ren, somewhere in the dark of the gallery, and at Sela — her several Selas — watching with a patience that did not blink.
 

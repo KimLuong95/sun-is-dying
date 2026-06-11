@@ -141,7 +141,7 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 14 | Twist bank | 10 constitution-safe twists logged in [`/story/01`](story/01-ten-twists.md) | DRAFTED |
 | 15 | Power & governance | **Each branch has a non-geographic institution growing from its definition of humanity** (Custodian Houses · Meritocracy · Memory Assemblies · Resonances · Foundries). See [`/factions/power-and-governance.md`](factions/power-and-governance.md) | LOCKED |
 | 16 | How war works | **Identity warfare, not artillery** — scarce things are attention, legitimacy, access; battlefield is "what counts as human." Constitution Rule 8 + [`/world/05`](world/05-how-power-and-war-work.md) | LOCKED |
-| 17 | Manuscript | Ch.1 "The Chairs" (d4) · Ch.2 "The Man Who Knocked" (d2) · Ch.3 "The First Stone" (d1) · Ch.4 "Politely, At First" (d1) | DRAFTING |
+| 17 | Manuscript | Ch.1 (d5) · Ch.2 (d3) · Ch.3 (d2) · Ch.4 (d2) — coherence pass: Stone seeded in Ch1, lattice seeded in Ch2 (the early dusk explained), "the Foremost" named, Elias's absence chosen, Ch4 darkness witnessed | DRAFTING |
 | 18 | Legitimacy symbol | **The First Stone** — oldest human-made object; the heirship token; lifted only by the recognized heir; kept by the Custodians. See [`/factions/power-and-governance.md`](factions/power-and-governance.md) + Ch.3 | LOCKED |
 | 19 | Scale & tangible power | **Refusal has consequences** (per-branch leverage) + physically strange Earth (the shade-lattice, the rebuilt Moon); civilization felt beyond the family. See power file + Ch.4 | LOCKED |
 | 20 | Chapter 5 | Not started — fallout: the race begins; what Yara does with the Stone now in her hand | OPEN — next |

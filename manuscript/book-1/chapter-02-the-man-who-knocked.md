@@ -1,6 +1,6 @@
 # Chapter Two — The Man Who Knocked
 
-*Book 1 · draft 2.*
+*Book 1 · draft 3.*
 
 ---
 
@@ -25,6 +25,10 @@ He looked well. He always looked well now; he could look any way he chose, and w
 "That we don't have what we came here to spend. Not centuries, Yara. Years. A small number of them."
 
 She had known. Standing in the red light last night with her hand stopped over the table, she had already known. Hearing it out loud was different. Her knees remembered they were old before the rest of her did, and she put a hand on the garden wall, and Davin watched her do it and did not move to help, because he knew she would rather fall than be held up by him. That was the thing she could never forgive and never explain to anyone: not that he'd stopped loving her, but that he understood her better than ever, and used it only to be kind in ways that cost him nothing.
+
+"You had an early dusk last night," he said, while she stood there with her hand on the wall. "I want you to understand what it was. The star lurched. The lattice caught it — the shades drank an hour of your evening to keep this garden inside the weather it believes in. They'll do it again, and harder, and more often." A pause. "They're ours, Yara. The Foundries hung them, and the Foundries hold them. Remember that today, when everyone in that room is being reasonable."
+
+She took her hand off the wall.
 
 "Then the Convocation," she started.
 
