@@ -1,8 +1,12 @@
 # Chapter Four — Politely, At First
 
-*Book 1 · draft 2.*
+*Book 1 · draft 3.*
 
 ---
+
+> *The keeper carries the Stone and is not its owner. The keeper lifts the Stone and is not its
+> heir. The keeper offers the Stone, and the room chooses. These three steps, and no fourth.*
+> — keeper's law, House Vael
 
 The Stone weighed nothing. That was the first surprise — a law older than any of the branches, keeper after keeper after keeper, and the thing in her hand weighed less than a loaf of bread.
 

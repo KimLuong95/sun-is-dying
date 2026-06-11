@@ -4,6 +4,14 @@ No chapter is "done" when the draft is finished. It's done when it's been throug
 passes in order — each one is a separate read, hunting one kind of problem. Trying to fix
 everything at once is how things get missed.
 
+## Pass 0 — The Navigation Hunt (can a tired reader follow it?)
+- [ ] The epigraph delivers this chapter's KNOW-item plainly ([epigraph rules](07-epigraphs-and-navigation.md)).
+- [ ] First half-page answers: where, when (relative to last chapter), who.
+- [ ] Every plot-load-bearing fact is stated plainly **once** — subtext for feelings, plain text
+  for facts.
+- [ ] [Reader-knowledge ledger](../story/05-reader-knowledge-ledger.md) updated; no KNOW-item
+  left to implication alone.
+
 ## Pass 1 — The Machine Hunt (catch the AI tells)
 Read only for the tells in [`01-avoiding-ai-tells.md`](01-avoiding-ai-tells.md):
 - [ ] Deleted every sentence that *explains* a feeling already shown.

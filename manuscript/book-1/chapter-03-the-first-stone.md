@@ -1,8 +1,15 @@
 # Chapter Three — The First Stone
 
-*Book 1 · draft 2.*
+*Book 1 · draft 3.*
 
 ---
+
+> *Let the five kinds come to the cradle: those who kept the body, those who grew past it, those
+> who crossed over from it, those who joined the one Choir, and those who were made. Let them sit
+> at the center of what remains. And let the First Stone stand among them, untouched, as it has
+> stood since the breaking — for it may be lifted only by the heir of all humanity, and there has
+> never been one.*
+> — from the convening writ of the Last Convocation
 
 No one had lifted the Stone since humanity was still one thing. That was so long ago it had stopped being history and turned into scripture.
 

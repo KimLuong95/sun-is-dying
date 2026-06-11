@@ -1,8 +1,14 @@
 # Chapter Two — The Man Who Knocked
 
-*Book 1 · draft 3.*
+*Book 1 · draft 4.*
 
 ---
+
+> *By joint measure of the Foundries, the star's remaining stability is revised from six
+> centuries to a small number of years. The exact number is withheld pending confirmation.
+> Parties still travelling to the Convocation are advised that there is no longer any reason to
+> travel slowly.*
+> — notice circulated to all five branches, the morning after the early dusk
 
 Yara hadn't slept. The light had come back wrong, and then it had come back at all, which was the worse part: a thin, hard morning the colour of dishwater, an hour early, like the dusk before it. The day couldn't keep its own time anymore.
 

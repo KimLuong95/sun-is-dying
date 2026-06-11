@@ -150,4 +150,5 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 22 | Threads ledger | Every planted gun tracked in [`/story/03`](story/03-threads-ledger.md); update per chapter | PROCESS |
 | 23 | Titles | **Series: "Sun Is Dying"** (no article — deliberate starkness + sunisdying.com is available). **Book 1: *The First Stone*** | LOCKED |
 | 24 | Chapter 5 "The Guests" | **Drafted** — four courtships (reason / record / repair / company), Ren's wrist plant, the Faithful Dead land | DRAFTED |
-| 25 | Chapter 6 "Sela" | Not started — the postponed conversation + the first anomaly whisper | OPEN — next |
+| 25 | Navigation layer | **Followability fixed**: in-world epigraphs on every chapter (the Dune trick — documents may be plain, narrators may not); narrative map with per-movement reader goals ([`story/04`](story/04-narrative-map.md)); reader-knowledge ledger ([`story/05`](story/05-reader-knowledge-ledger.md)); revision Pass 0 = navigation. Rule: **subtext for feelings, plain text for facts** | LOCKED |
+| 26 | Chapter 6 "Sela" | Not started — the postponed conversation + the first anomaly whisper | OPEN — next |

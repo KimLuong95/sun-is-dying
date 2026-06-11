@@ -1,8 +1,14 @@
 # Chapter One — The Chairs
 
-*Book 1 · draft 5.*
+*Book 1 · draft 6.*
 
 ---
+
+> *First there was one world and one kind of people. The world was called Earth. The people went
+> out from the world and became many kinds, and the kinds could never agree which of them was
+> still people. The world is still called Earth. Its star is old now. One family stays to keep
+> the world while it ends.*
+> — from a child's primer, printed on paper, kept in the Custodian house
 
 Yara carried the last chair in from the cold room and set it at the head of the table. Then she counted the places. She counted them most evenings now, as if the number might come out different.
 
@@ -72,7 +78,7 @@ They sat, the four of them and the empty places, and the candles Yara had lit be
 
 "For the talking."
 
-Tomorrow they would sit in a bigger room with people who weren't family and decide what to do about the world. Yara had kept that world her whole life, and her mother before her, and tomorrow strangers would help her decide whether to save it, and how, and what the word *save* even meant when no two of them meant the same thing by it. And before any of them said a word, she would do the keeper's part: go down under the oldest room of the house and bring up the thing her line had kept in the dark since before the branches had names, and lay it in front of them all. She'd stopped being able to hold tomorrow in her head without her hands going cold. So she thought about the soup, and passed it, and watched her family pretend.
+Tomorrow they would sit in a bigger room with people who weren't family and decide what was to be done with Earth before the Sun finished dying. Yara had kept that world her whole life, and her mother before her, and tomorrow strangers would help her decide whether to save it, and how, and what the word *save* even meant when no two of them meant the same thing by it. And before any of them said a word, she would do the keeper's part: go down under the oldest room of the house and bring up the thing her line had kept in the dark since before the branches had names, and lay it in front of them all. She'd stopped being able to hold tomorrow in her head without her hands going cold. So she thought about the soup, and passed it, and watched her family pretend.
 
 Ren reached over and slid Sela's full glass two inches to the left, then back, just to have done something with his hands. "You're not going to drink that."
 

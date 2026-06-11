@@ -1,8 +1,11 @@
 # Chapter Five — The Guests
 
-*Book 1 · draft 1.*
+*Book 1 · draft 2.*
 
 ---
+
+> *Whoever holds the Stone speaks for the species. This is the whole reason no one may hold it.*
+> — marginal note in the keeper's records, unsigned
 
 The most dangerous object in the galaxy spent the night on Yara's kitchen table, between the salt and a bowl of plums nobody had touched.
 

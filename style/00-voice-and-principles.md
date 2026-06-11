@@ -44,3 +44,6 @@ cold, it loses.
   before it's "done."
 - [`06-proverbs-and-sayings.md`](06-proverbs-and-sayings.md) — the book's folk wisdom: rules for
   using sayings, the canon ledger, and the bank of unused ones.
+- [`07-epigraphs-and-navigation.md`](07-epigraphs-and-navigation.md) — how the reader never gets
+  lost: the in-world epigraph system and the orientation rules. **Subtext for feelings, plain
+  text for facts.**
