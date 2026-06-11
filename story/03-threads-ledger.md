@@ -19,8 +19,12 @@
 | "Hello, little fish" — only Vesha ever called her that | Ch.3 | 🔁 | Is Vesha still in there? The bait made of love; pressure point at Yara's lowest (Book 2, twist #6) |
 | The Choir: "We remember dark" — the union flinched | Ch.4 | ⏳ | The Choir can fear. First crack in "we solved suffering" (Books 2–3) |
 | Yara's reflex-grip read as a claim by the law | Ch.4 | 🔁 | Her flaw (gripping) IS the inciting act of the war. The arc's engine — pays off at the climax as open hands |
-| Ren's "number he checks and tells no one about" | (Ch.5, planned) | 🌱 | Reserve twist: his ascension is quietly failing; he came home for a human reason |
+| Ren's wrist-check — "the way a boy checks whether a graze has stopped bleeding" | Ch.5 | 🌱 | Reserve twist: his ascension is quietly failing; he came home for a human reason. He *chose* to let her see |
 | The anomaly whisper (noise the instruments refuse to file) | (Ch.6, planned) | ⏳ | Midpoint discovery; never resolves into an answer (Rule 7) |
+| Davin repairs the garden wall, asks for nothing | Ch.5 | 🌱 | Twist #5: the Made's love is maintenance; he's reinforcing *her* house while his branch debates triage |
+| The Choir asks for nothing but her ("you shouldn't be alone in it") | Ch.5 | 🔁 | Twist #6 pressure: the offer Yara most wants, from the thing she most fears. Fires at her lowest point |
+| "Sela had not come down since the hall. None of her." | Ch.5 | ⏳ | Ch.6: where has she been — and what did her Assembly's solar scans show her |
+| The Faithful Dead land — a hundred thousand, no return plans | Ch.5 | 🔁 | The sixth claim on Earth: *let it end, and let us be in it.* Swells through Act II; collides with every rescue plan at the festival of the climax |
 
 ## Fired-but-unplanted check (reverse audit)
 Run when revising: did anything land that was never seeded? Current status: **clean.** (The

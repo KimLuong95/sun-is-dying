@@ -147,4 +147,6 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 20 | Outline v2 | **Stone absorbed into the plot spine**; Stone↔mirror convergence named as series design intent; Act I completion map (Ch.5–9); "Yara turns active" rule. See [`/story/02`](story/02-book-1-outline.md) | LOCKED |
 | 21 | Vesha was the heir | **The keeping was Vesha's; Yara is the replacement keeper** — origin of her gripping. See [the joining](characters/vesha-choir/growth/01-the-joining.md) | LOCKED |
 | 22 | Threads ledger | Every planted gun tracked in [`/story/03`](story/03-threads-ledger.md); update per chapter | PROCESS |
-| 23 | Chapter 5 "The Guests" | Not started — per Act I map | OPEN — next |
+| 23 | Titles | **Series: "Sun Is Dying"** (no article — deliberate starkness + sunisdying.com is available). **Book 1: *The First Stone*** | LOCKED |
+| 24 | Chapter 5 "The Guests" | **Drafted** — four courtships (reason / record / repair / company), Ren's wrist plant, the Faithful Dead land | DRAFTED |
+| 25 | Chapter 6 "Sela" | Not started — the postponed conversation + the first anomaly whisper | OPEN — next |
