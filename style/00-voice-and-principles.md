@@ -42,3 +42,5 @@ cold, it loses.
 - [`04-worldbuilding-on-the-page.md`](04-worldbuilding-on-the-page.md) — lore without lectures.
 - [`05-the-revision-pass.md`](05-the-revision-pass.md) — the checklist every chapter goes through
   before it's "done."
+- [`06-proverbs-and-sayings.md`](06-proverbs-and-sayings.md) — the book's folk wisdom: rules for
+  using sayings, the canon ledger, and the bank of unused ones.
