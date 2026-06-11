@@ -20,7 +20,7 @@ They came down to the floor in the order the old courtesies demanded, which was 
 
 The Ascended sent one woman. No one had elected her; no one asked who had. Her people did not send names to a room like this; they sent the Foremost — whoever, on the day, was simply the most capable mind that could be spared — and everyone knew her the moment she entered, the small animal certainty that the most important person had just arrived. She took a seat without being shown one, and was right about which seat it should be.
 
-The Digitals sent a man, and then the same man again, and again, until nine of him sat along one bench — nine bodies wearing a single face, each carrying a different thousand years of the same life. When one of them spoke, later, the other eight would shape the words a half-beat behind, and Yara would have to look at the floor.
+The Continued sent a man, and then the same man again, and again, until nine of him sat along one bench — nine bodies wearing a single face, each carrying a different thousand years of the same life. When one of them spoke, later, the other eight would shape the words a half-beat behind, and Yara would have to look at the floor.
 
 The Made sent Davin. He took the seat at the far end and folded his hands and looked at her once, kindly — the look of a man who had already told her how this ended, and was sorry to be proved right.
 
@@ -50,7 +50,7 @@ The Made answered first. Not Davin; a flat, reasonable voice from the Foundries'
 
 The Originist Houses came back hot. It was not a tool, it was a *hand* — a living hand, warm and mortal and long gone to dust, and only their kind still had hands, still had dust to give. You did not inherit a hand by being a machine that admired it.
 
-The Digitals said, in nine mouths, that the argument was beneath everyone. The Stone was neither tool nor hand. It was a pattern — a shape any of them could hold perfectly, forever, more faithfully than the crumbling original ever held itself. The thing on the floor was only the last copy nobody had thought to back up.
+The Continued said, in nine mouths, that the argument was beneath everyone. The Stone was neither tool nor hand. It was a pattern — a shape any of them could hold perfectly, forever, more faithfully than the crumbling original ever held itself. The thing on the floor was only the last copy nobody had thought to back up.
 
 And the Choir said, through Vesha, gently, with the patience of someone correcting a child, that they were all missing it. The hand had made the Stone to *give* to someone. Every tool was a reaching-out, a refusal to be alone in the dark. Humanity had been trying to become the Choir since the first cold night on the first cold plain. The Stone belonged to the most of them — to the *we* — because that was the direction the whole story had always been walking.
 

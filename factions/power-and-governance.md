@@ -51,7 +51,7 @@ fight.*
 - **How they fight:** capability races, and *uplift* — modifying populations (and children)
   toward their model of "better," until the alternative looks like a sickness no one would choose.
 
-## Digitals — the **Memory Assemblies**
+## The Continued — the **Memory Assemblies**
 *Humanity = the pattern, the mind. So authority = accumulated experience, voted by replication.*
 - **Who governs:** assemblies where a single person may speak with thousands of their own
   instances at once — every copy a vote, every copy carrying experience the original lived.
@@ -108,7 +108,7 @@ holds — the thing that stops everyone else if it stops. Dramatize these; don't
 - **The Made — life and shelter.** They keep the habitats, the ships, the repair-systems, and the
   shade-lattice holding the dying Sun off Earth. Refuse, and civilization stops *breathing* —
   air, heat, light, the sky itself. (Shown: [Ch.4](../manuscript/book-1/chapter-04-politely-at-first.md), the lattice flicker.)
-- **The Digitals — memory and distance.** They run the archives and the slow-light relays that
+- **The Continued — memory and distance.** They run the archives and the slow-light relays that
   carry word between worlds. Refuse, and humanity goes deaf, dumb, and amnesiac: no messages
   across the dark, no shared record, no agreed past. Whoever holds the memory holds the truth.
 - **The Ascended — the unsolved problem.** They produce the advances everyone leans on — the

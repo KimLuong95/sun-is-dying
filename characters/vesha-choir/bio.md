@@ -3,9 +3,10 @@
 **Branch:** The Choir · **Role:** Yara's sister, long gone into the union · **POV:** no — and
 that's deliberate (we never get inside the "we")
 
-> **On the name:** *Vesha* is her Originist birth-name. The Choir itself has **no personal name** —
-> it is "we," or a functional Concord-designation. It wears "Vesha" only because it knows Yara
-> will listen to that name. The name is bait made of love.
+> **On the name:** her birth-name was **Vera** — the old word for *true*. ***Vesha* is the family
+> diminutive** — the kitchen-name, the bunk-bed name, used by no one outside the blood. The Choir
+> itself has **no personal name** — it is "we," or a functional Concord-designation. And it does
+> not come to the door as Vera. It comes as Vesha. The bait is made from the smaller, softer name.
 > (See [Names & Language](../../world/04-names-and-language.md).)
 
 ## Snapshot

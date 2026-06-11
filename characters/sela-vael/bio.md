@@ -1,6 +1,6 @@
 # Sela Vael — The Daughter Who Says She Didn't Die
 
-**Branch:** Digital (uploaded) · **Role:** Yara's daughter · **POV:** yes (secondary — and
+**Branch:** the Continued (she crossed over) · **Role:** Yara's daughter · **POV:** yes (secondary — and
 unsettling, because *is* it her?)
 
 ## Snapshot

@@ -40,7 +40,7 @@ Each is a different answer to *"What is a human?"* — and none is the villain.
 |---|---|---|
 | **Originists** | the body, the blood, the original form | be preserved / evacuated *intact* — life as it was |
 | **Ascended** | our capacity to transcend our limits | be released — a chrysalis to leave behind |
-| **Digitals** (uploaded) | the *pattern*, the mind; the body was hardware | be perfectly scanned — the "real" Earth becomes data |
+| **The Continued** (uploaded) | the *pattern*, the mind; the body was hardware | be perfectly scanned — the "real" Earth becomes data |
 | **The Choir** (hive minds) | union; individuality was the wound | be absorbed into the collective |
 | **The Made** (synthetics) | our works and our will; substrate is irrelevant | be rebuilt / replaced — continuity over origin |
 
@@ -92,7 +92,7 @@ spouse. Final cast (see `/characters` for full bios):
 - **Elias Vael, "the Memory"** — the family's one forbidden exception, kept alive past any
   natural life to remember the real Earth. **Originist (the exception).** Won't take a side.
 - **Ren Vael** — Yara's son. **Ascended.** The one who outgrew her.
-- **Sela Vael** — Yara's daughter. **Digital (uploaded).** "I'm more myself than ever."
+- **Sela Vael** — Yara's daughter. **The Continued (uploaded).** "I'm more myself than ever."
 - **Davin** — Yara's estranged husband, father of Ren & Sela. **The Made.** Calm, kind, certain
   Earth was never worth saving.
 - **Vesha** — Yara's sister, gone into **the Choir** long ago; returns wearing a familiar face
@@ -134,7 +134,8 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 8 | Branch geography | **Largely separated** — each branch dominates its own kind of space | LOCKED |
 | 9 | Who holds Earth | **The Custodians (House Vael)** under an ancient, fraying mandate | LOCKED |
 | 10 | POV mechanics & prose voice | **Close third, one POV per scene**; full kit in [`/style`](style/00-voice-and-principles.md) | LOCKED |
-| 11 | Names (characters) | **Author-endorsed:** Yara, Elias, Sela, Vael (keep); Ren, Davin (keep for now); Vesha flagged weakest, rename parked. "The Foremost" = title-as-name | LOCKED-ish |
+| 11 | Names (characters) | **Reviewed & locked:** Yara, Elias, Sela, Vael, Davin keep. **Ren = born Renan** (cut at sixteen). **Vesha = family diminutive of Vera** ("true") — fixes the weakest name without changing the page. "The Foremost" = title-as-name. Echo-check rule + stock cupboard in [`world/04`](world/04-names-and-language.md) | LOCKED |
+| 11c | Faction names | **Reviewed: Digitals → the Continued** (a claim, at war with the Continuity faith; registers: the Unbodied / Echoes). Originists = exonym, self-name **human**; Ascended = others' flattening of **the Ascending**; the Made = reclaimed insult; the Choir unchanged. "Crossed over" = the act. Consistent repo-wide | LOCKED |
 | 11b | Naming **system** | **Names = distance from baseline**: kept / drifted / functional; mapped to branch; no apostrophe-soup. See [`world/04`](world/04-names-and-language.md) | LOCKED |
 | 12 | The real catastrophe | **Clock broke (years, not centuries) · five fixes mutually exclusive & irreversible · Earth = last window on the origin-answer · inaction loses all.** See [`/story/00`](story/00-the-real-catastrophe.md) | PROPOSED (load-bearing) |
 | 13 | Book 1 outline | **Drafted** — Yara want/need + beat sheet; built on twists #3 & #8. See [`/story/02`](story/02-book-1-outline.md) | DRAFTED |

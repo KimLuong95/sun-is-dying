@@ -13,7 +13,7 @@ Earth and is torn apart along the same lines. Full concept: [`STORY-SPINE.md`](S
   from going generic. If anything conflicts with it, the constitution wins. **Read this first.**
 - `STORY-SPINE.md` — premise and locked story decisions, built on top of the constitution.
 - `world/` — setting, Earth, how humanity is organized.
-- `factions/` — the five branches (Originists, Ascended, Digitals, the Choir, the Made).
+- `factions/` — the five branches (Originists, Ascended, the Continued, the Choir, the Made).
 - `religions/` — four belief systems built on the "was the universe made?" mystery.
 - `characters/` — House Vael cast; each character has its own folder with `bio.md` and a
   `growth/` folder for dated change-files. See `characters/_growth-template.md`.

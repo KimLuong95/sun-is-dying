@@ -13,8 +13,9 @@ just tested him, told him his ceiling, and told him it could be removed. No one 
 to him about his ceiling before. At home they only ever spoke about the walls.
 
 ### The moment
-He left without a fight, which was worse than a fight. The first changes were small — sleep he no
-longer needed, fear that arrived and then politely waited for instructions. He wrote home once.
+He left without a fight, which was worse than a fight. He cut his name in half the same week —
+Renan to Ren — the first thing he ever optimized. The first changes after that were small — sleep
+he no longer needed, fear that arrived and then politely waited for instructions. He wrote home once.
 He sent a star chart he had computed himself, unaided, in his head, with a note: *I'm fine, the
 chart proves it.* He believed that. He believed the chart was a love letter. It took him thirty
 years to understand his mother had opened the envelope, found mathematics, and cried.

@@ -7,6 +7,12 @@ The Originists are humans who chose to **stay human** — the same kind of body 
 today. They are born, they grow, they age, and they die. They live a long time by our standards,
 but they do not pretend to be anything more than what people have always been.
 
+## The name
+"Originist" is not their word. It is the *branches'* word for them — a label that quietly makes
+the trunk one branch among five. Among themselves they use the old word, and they will give it to
+no one else: **human.** The other branches find precisely that arrogance unbearable, which is, of
+course, part of why they keep it.
+
 ## What they believe
 To an Originist, a human is the **original creature**: flesh, blood, and a single life lived in
 a single body. They believe the others didn't *improve* on humanity — they walked away from it.

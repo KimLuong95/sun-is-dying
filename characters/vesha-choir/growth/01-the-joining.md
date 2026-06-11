@@ -12,6 +12,9 @@ way deep space is cold — uniformly, in every direction, forever. She did not b
 asking, in a house that had no answer: *why is the holiest work we have the one you must do
 alone?*
 
+Her name was Vera — the old word for *true*. Nobody used it. At home she was Vesha, the
+kitchen-name, and home was the only place she lived until she didn't.
+
 She called her little sister *little fish* — for how Yara, small, used to swim circles around the
 garden cistern and never once asked to be let out.
 

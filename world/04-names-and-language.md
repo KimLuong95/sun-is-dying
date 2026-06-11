@@ -39,16 +39,32 @@ the way we do at all:
 **Sol Witness. Memory-of-Dawn. Last Son of Earth. Continuity-72. Ninth Echo. The Concord.**
 
 When a character is named like this, the reader should feel a small chill: *this one might not
-be a person in the way I understand the word.* Common among Digitals, the Made, and the Choir.
+be a person in the way I understand the word.* Common among the Continued, the Made, and the Choir.
 
 ## How it maps to the branches
 | Branch | Typical naming | What the name signals |
 |---|---|---|
 | **Originists** | Tier 1 — kept human names | "I never left. I am the root." |
 | **Ascended** | Tier 2 — drifted, often aspirational | "I grew past what I was, but I remember it." |
-| **Digitals** | Tier 2 or 3 — birth-name kept *or* a chosen handle | depends how far they've let the body go |
+| **The Continued** | Tier 2 or 3 — birth-name kept *or* a chosen handle | depends how far they've let the body go |
 | **The Choir** | Tier 3 / none — plural or functional | "There is no single 'I' here to name." |
 | **The Made** | Tier 3 — functional designations | "Origin is a footnote. I am what I do." |
+
+## What the branches call themselves (and each other)
+**Every name in this universe is an argument.** The war over what a human is gets fought in
+vocabulary first (constitution, Rule 8) — so each branch lives inside three registers:
+
+| Branch | Their own word | The common word | The slur |
+|---|---|---|---|
+| Originists | **human** — and they share it with no one | Originist | *relics*, *the museum people* |
+| Ascended | **the Ascending** — present tense; finished is dead | Ascended | *the Unfinished* |
+| The Continued | **the Continued** — a claim, chosen to rebut the Continuity faith | the Unbodied | *Echoes*, *the Archived* |
+| The Choir | **we** — it barely needs a name; it accepted "the Choir" because it sings | the Choir | *the Drowned* |
+| The Made | **the Made** — the others' insult ("less than born"), kept and worn with pride | the Made / the Foundries | *clockwork*, *the Empty* |
+
+And the acts have registers too: the Continued say someone **crossed over**; the
+Continuity-faithful use a shorter word for the same event. Narration uses the common words
+(translated, neutral); dialogue is where the registers fight.
 
 ## House / family names
 Lineage names drift too. Over deep time a surname wears smooth into something archaic and
@@ -59,6 +75,20 @@ Surnames carry the weight of *how long* a line has lasted.
 1. **How far from baseline are they?** (rooted → changed → post-human)
 2. **What do they believe about origin?** (devout keepers cling to old names; the Made discard them)
 3. **Pick the tier**, then say it out loud. If it's a mouthful or sounds random, fix it.
+4. **Run the echo check.** Say the candidate next to famous franchise names. If it summons one
+   (a *Ren* summons Kylo), either change it or anchor it with a deeper in-world story that makes
+   it unmistakably ours (our Ren survives because Renan→Ren is his own amputation — see below).
+5. **Keep old Earth's whole map.** The Originists kept names from every culture of the cradle —
+   Fatima and Okafor as naturally as Elias and Sarah. The kept names should sound like Earth,
+   not like one corner of it.
+
+## The stock cupboard (ready when new characters appear)
+- **Custodian Houses:** Okafor · Ibarra · Mehr · Antara · Solano · Brann
+- **Kept first names (Tier 1):** Noor · Mara · Tomas · Esther · Idris · Lin · Amara · Anselm
+- **The Continued (elders):** birth-name plus count — *"Calder, who is nine."*
+- **Foundry voices (Tier 3):** function-compounds — *Bridgekeeper · Lattice-Warden Six · the
+  Sixth Furnace*
+- **The Choir:** no personal names; a borrowed face's old name, or a concord-designation
 
 ---
 
@@ -66,15 +96,21 @@ Surnames carry the weight of *how long* a line has lasted.
 - **Yara Vael** — Tier 1. A real, kept human name. She *is* the root. *(Vael = ancient eroded house name.)*
 - **Elias Vael** — Tier 1, deliberately archaic. A name that "survived" — fitting, since he's the
   one who survived to remember.
-- **Ren Vael** — Tier 2, contracted. A human name worn short by his ascension; an echo, not the
-  whole word.
-- **Sela Vael** — Tier 1, kept. Born Originist, *uploaded later* — so she still carries her human
-  birth-name, which is exactly why losing her hurts: she's still got her little-girl name.
+- **Ren Vael** — born **Renan** (Tier 1, kept). He cut the name in half at sixteen, the year he
+  left — the first thing he ever optimized. *Ren* is his own amputation, which is why no other
+  story's Ren is this one.
+- **Sela Vael** — Tier 1, kept. Born Originist, crossed over later — so she still carries her
+  human birth-name, which is exactly why losing her hurts: she's still got her little-girl name.
+  *(Resonance, never stated on the page: in the oldest songs, "selah" marked a held pause — a
+  rest in the music. Whether the music resumes is the book's question.)*
 - **Davin** — Tier 2, **drifted from an Originist birth-name (a "David").** Among the Made he holds
   a cold functional designation; to his family he is still the worn echo "Davin." That gap is the
   whole tragedy of him. *(He dropped the house name "Vael" when he left — another wound.)*
-- **Vesha** — Tier 1 birth-name, but the Choir has **no personal name** for itself. It wears
-  "Vesha" only to reach Yara. When it speaks of itself, it says "we," or gives a functional
-  Concord-designation. The name is bait made of love.
+- **Vesha** — born **Vera** (Tier 1, kept — the old word for *true*). **"Vesha" is the family
+  diminutive**: the kitchen-name, the bunk-bed name, used by no one outside the blood. The Choir
+  has no personal name for itself — and it does not come to the door as Vera. It comes as Vesha.
+  The bait is made from the smaller, softer name.
+- **The Foremost** — no name at all: a title as identity. The Meritocracy sends capability, not
+  names.
 
 See also: [The five branches](../factions/00-overview.md) · [Cast & relationships](../characters/00-cast-and-relationships.md) · [Style: voice](../style/00-voice-and-principles.md)

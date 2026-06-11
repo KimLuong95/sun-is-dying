@@ -85,7 +85,7 @@ them dryly, resentfully, or have them quoted against her.*
 - **"A question delayed is a question answered by accident."** — her Ch.3 provocation in proverb
   form. *Use: when someone urges more waiting.*
 
-### The Digitals — Assembly sayings
+### The Continued — Assembly sayings
 - **"The original is the first copy."** — their whole philosophy; fighting words to an Originist.
   *Use: ONLY at maximum stakes — this one detonates the Yara↔Sela wound. Sela should never say it;
   someone cruder should, near her, and her flinch is the scene.*

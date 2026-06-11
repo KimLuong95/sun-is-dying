@@ -18,7 +18,7 @@ stay — is the engine. Everyone is a person first and a "branch" second.
 | **[Yara Vael](yara-vael/bio.md)** | Originist | The Matriarch and Custodian of Earth. Holds the homeworld and her breaking family in the same two hands. |
 | **[Elias Vael](elias-vael/bio.md)** | Originist (the exception) | "The Memory." Kept alive far past any natural life to remember the real Earth. Won't take a side. |
 | **[Ren Vael](ren-vael/bio.md)** | Ascended | Yara's son. Left to become more than human. Thinks saving Earth is sentiment dressed as duty. |
-| **[Sela Vael](sela-vael/bio.md)** | Digital | Yara's daughter. Uploaded her mind. Insists she's more herself than ever. Her mother buried a body. |
+| **[Sela Vael](sela-vael/bio.md)** | The Continued | Yara's daughter. Crossed over. Insists she's more herself than ever. Her mother buried a body. |
 | **[Davin](davin/bio.md)** | The Made | Yara's estranged husband, father of Ren and Sela. Rebuilt himself as a machine. Calm, kind, and certain Earth was never worth saving. |
 | **[The Choir / Vesha](vesha-choir/bio.md)** | The Choir | Yara's sister, gone into the union long ago. Returns wearing a familiar face and a stranger's "we." |
 
@@ -28,7 +28,7 @@ stay — is the engine. Everyone is a person first and a "branch" second.
 
 ## The web of wounds (this is the real map)
 - **Yara ↔ Sela** — *the deepest cut.* A mother grieving a daughter who is standing right in
-  front of her, arguing that she never died. (See [Digitals](../factions/digitals.md).)
+  front of her, arguing that she never died. (See [the Continued](../factions/the-continued.md).)
 - **Yara ↔ Ren** — the easier loss to understand and the harder one to forgive. He didn't die.
   He just decided she was small.
 - **Yara ↔ Davin** — love that didn't end in hatred, which is worse. He still speaks gently. He
@@ -44,7 +44,7 @@ stay — is the engine. Everyone is a person first and a "branch" second.
 | Name | Branch | In one line |
 |---|---|---|
 | **[The Foremost](the-foremost/bio.md)** | Ascended | The Meritocracy's unnamed, unelected voice. The antagonist of ideas — forces tempo by being right. |
-| **The nine-bodied delegate** | Digital | One man, nine instances, each carrying a different thousand years of the same life. *(File when he grows past function.)* |
+| **The nine-bodied delegate** | The Continued | One man, nine instances, each carrying a different thousand years of the same life. *(File when he grows past function.)* |
 
 ## The growth-file convention (important)
 Characters must *change* across the book and across their long lives, or they feel fake. So each

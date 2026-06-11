@@ -79,7 +79,7 @@ answer matters less than humanity's reaction to it.** *Dune* isn't stronger if G
 ### Rule 8 — Conflict is identity warfare, not artillery.
 A civilization this old does not fight with rifles over hills. The scarce things are **attention**
 (who gets to think), **legitimacy** (who is the true heir), and **access** (to Earth, the last
-relic). The branches wage war with their own natures — Digitals copy and edit, the Choir absorbs,
+relic). The branches wage war with their own natures — the Continued copy and edit, the Choir absorbs,
 the Made rebuild and withhold, the Ascended modify, the Originists restrict — and the battlefield
 is always *what counts as human.* Crude force exists only at the edges, as the lowest resort. If
 the war ever becomes a normal space-war (fleets, beam weapons, capture the planet), that's the
@@ -126,7 +126,7 @@ Never resolve this cleanly. The book *asks* it. The reader answers it.
 ## How this maps to the rest of the repo
 The constitution is the law; the lore is the application of it.
 - **Branches** ([`/factions`](factions/00-overview.md)) = positions on the *substrate* axis:
-  Originists, Ascended, Digitals, the Choir, the Made.
+  Originists, Ascended, the Continued, the Choir, the Made.
 - **Religions** ([`/religions`](religions/00-overview.md)) = positions on the *origin / purpose /
   continuity* axes, and they **cut across** the branches: the Makers' Faith, the Silence, the Next
   Cause, the Cradle, **[Continuity](religions/continuity.md)**, and **[Children of Sol](religions/children-of-sol.md)**.

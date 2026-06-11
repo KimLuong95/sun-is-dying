@@ -8,6 +8,12 @@ stronger, sharper, and far longer-lived than people were ever meant to be. They 
 and blood. They still feel, love, and bleed. They've just pushed those things far past the old
 limits.
 
+## The name
+Among themselves it is always the present tense: **the Ascending.** A thing still happening;
+finished is dead. "Ascended" is everyone else's flattening, and they let it stand — correcting it
+would mean admitting the others' words matter. *(Earmarked: Ren correcting someone, once, quietly:
+"Ascending. If it were finished, we'd be dead.")*
+
 ## What they believe
 To the Ascended, being human was never about a fixed shape. It was about **reaching** — always
 becoming more than you were. A child grows into an adult; why should a species be any different?
@@ -35,4 +41,4 @@ The Ascended are the **most tempting** betrayal. When an Originist's child chang
 usually the first step they take — because it's the easiest to understand. It looks like growth.
 It feels like survival. And to the parent left behind, it still feels like loss.
 
-See also: [Originists](originists.md) · [Digitals](digitals.md) (where some Ascended go next)
+See also: [Originists](originists.md) · [The Continued](the-continued.md) (where some Ascended go next)

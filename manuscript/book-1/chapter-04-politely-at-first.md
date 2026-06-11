@@ -36,7 +36,7 @@ And in the dark behind it, all the things she never let herself look at. The fle
 
 Somewhere in the galleries one voice screamed, briefly, and stopped itself. Even the terror here had manners.
 
-On the Digitals' bench, one of the nine bodies looked up; the other eight kept their eyes on the Stone in her arms, dividing the labour of fear. Beside them the thing wearing Vesha had gone absolutely still, and under the stillness Yara felt the pressure she had felt at the greeting — fifty thousand minds, or fifty million, flinching in the same instant through one borrowed body. When it spoke it spoke once, quietly, to no one in the hall.
+On the bench of the Continued, one of the nine bodies looked up; the other eight kept their eyes on the Stone in her arms, dividing the labour of fear. Beside them the thing wearing Vesha had gone absolutely still, and under the stillness Yara felt the pressure she had felt at the greeting — fifty thousand minds, or fifty million, flinching in the same instant through one borrowed body. When it spoke it spoke once, quietly, to no one in the hall.
 
 "We remember dark," it said.
 

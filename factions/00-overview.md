@@ -18,7 +18,7 @@ being human a long time ago.
 |---|---|---|
 | **[Originists](originists.md)** | Stayed human. | The original creature — flesh, blood, one life in one body. |
 | **[Ascended](ascended.md)** | Upgraded themselves. | A being meant to keep growing past every limit. |
-| **[Digitals](digitals.md)** | Left their bodies behind. | A mind. The body was only ever a vehicle. |
+| **[The Continued](the-continued.md)** | Left their bodies behind — and say they survived it. | A mind. The body was only ever a vehicle. |
 | **[The Choir](the-choir.md)** | Joined into one mind. | A part of something larger — "we," never "I." |
 | **[The Made](the-made.md)** | Became machines. | What you *do*, not what you're made of. |
 

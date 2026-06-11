@@ -25,7 +25,7 @@ afraid to ask for it directly, so they talk *around* it.
 ## Every branch *sounds* different (this is worldbuilding through voice)
 - **Originists** — plain, bodily, grounded in birth/food/weather/death. Short when hurt.
 - **Ascended (Ren)** — fast, witty, a half-step ahead; hides feeling in cleverness.
-- **Digitals (Sela)** — open, patient, gently certain; the calm of someone who feels no fear.
+- **The Continued (Sela)** — open, patient, gently certain; the calm of someone who feels no fear.
 - **The Made (Davin)** — even, precise, devastating softly; never raises its voice, never bites.
 - **The Choir** — warm and *plural*; slides between "I remember" and "we believe" without a seam.
 - **Elias** — slow, in small concrete pictures from a lost world; answers big with tiny.

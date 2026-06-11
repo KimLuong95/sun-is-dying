@@ -40,7 +40,7 @@ The Foremost looked at the Stone on the table, between the salt and the plums, a
 
 The Foremost stood in the doorway a moment longer than her schedule could have liked. Then she went back down through the garden, past the dead tree, and did not look at it twice.
 
-The Digitals came at noon, three of him this time, and stood in a shallow arc in the garden because not all of them would fit comfortably in the kitchen and he was too polite to choose which of himself to leave outside. The offer was already made before the door finished opening — he was old, and oldness in his kind meant he had stopped wasting moves.
+The Continued came at noon, three of him this time, and stood in a shallow arc in the garden because not all of them would fit comfortably in the kitchen and he was too polite to choose which of himself to leave outside. The offer was already made before the door finished opening — he was old, and oldness in his kind meant he had stopped wasting moves.
 
 "Let us record it," all three said, nearly together, the outer two arriving a half-beat behind the middle like a sound finding the walls. "Perfectly. Every grain, every fracture, every atom in its place. We ask for nothing else — not custody, not the choosing. Once it's held, it's safe. Whatever happens to the original afterward, nothing is lost."
 

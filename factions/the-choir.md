@@ -38,4 +38,4 @@ an aunt, a name half-forgotten — returns to the Convocation as part of the Cho
 familiar face and speaks with a stranger's "we." She is proof of what total union costs, sitting
 right there at the table, asking the rest of them to join.
 
-See also: [Digitals](digitals.md) · [Characters: the returned relative](../characters/00-cast-and-relationships.md)
+See also: [The Continued](the-continued.md) · [Characters: the returned relative](../characters/00-cast-and-relationships.md)

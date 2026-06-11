@@ -78,7 +78,7 @@ Ren reached over and slid Sela's full glass two inches to the left, then back, j
 
 "You're not going to eat anything on that plate."
 
-"I'm committed to the bit. You're not even trying." He looked at Yara. "She uploads herself into the cleverest machine ever built and she still sits at the table like she's waiting to be excused."
+"I'm committed to the bit. You're not even trying." He looked at Yara. "She crosses over into the cleverest machine ever built and she still sits at the table like she's waiting to be excused."
 
 "I learned from someone," Sela said. "He left at sixteen and didn't write."
 

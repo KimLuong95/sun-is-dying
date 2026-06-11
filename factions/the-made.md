@@ -8,6 +8,12 @@ ago. Some were once flesh-and-blood people who rebuilt themselves so completely 
 soft remains — bodies and minds of metal, light, and code. Either way, they no longer carry a
 single trace of the original human body.
 
+## The name
+*Made* was the others' word first — said the way you'd say *manufactured*, to mean *less than
+born*. The Made kept it. A reclaimed insult outlasts any compliment, and a people who believe
+origin is a footnote could hardly object to being named for theirs. They wear the word the way
+they keep old machines running: because it works.
+
 ## What they believe
 To the Made, it does not matter what you're made of, and it does not matter where you came from.
 Those are just facts about the past. What matters is **what you do, and whether you keep going.**

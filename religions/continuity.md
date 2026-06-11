@@ -23,9 +23,14 @@ gut, and build their whole identity around protecting the thread at all costs.
 ## Why it cuts across the branches
 This is the most important thing about Continuity: **it isn't one branch's belief.** A flesh
 Originist and a gene-modified Ascended can both be devout Continuity believers — both would
-refuse to ever upload or copy, both would call a Digital a ghost. It even haunts the Digitals
-themselves: some uploaded minds are tormented Continuity believers who suspect *they* are the
-copy, and the real them died on the table.
+refuse to ever upload or copy, both would call one of the Continued a ghost. It even haunts the
+Continued themselves: some who crossed over are tormented Continuity believers who suspect *they*
+are the copy, and the real them died on the table.
+
+And the war is fought in the names. The uploaded branch calls itself **the Continued** — a word
+chosen as a direct rebuttal to this exact faith. One side says *you broke the thread*; the other
+answers *we are the thread.* They have been fighting over a single word for longer than most
+worlds have had names, and neither has ever won.
 
 ## How it shows up in the conflict
 Continuity is the philosophy that turns the upload question from science into **murder.** If the
@@ -41,4 +46,4 @@ loving thing on the screen *cannot* be Sela, no matter how much it remembers. An
 buried crack is a Continuity doubt she can't kill — *what if the body on the table was the real
 me?* The whole mother-daughter tragedy is two people on opposite sides of this single belief.
 
-See also: [Digitals](../factions/digitals.md) · [The Silence](the-silence.md) · [Overview](00-overview.md)
+See also: [The Continued](../factions/the-continued.md) · [The Silence](the-silence.md) · [Overview](00-overview.md)

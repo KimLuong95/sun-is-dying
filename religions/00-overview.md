@@ -42,8 +42,8 @@ the reader hasn't met through a person.
 
 ## The important twist
 **Religion does not match the branches.** You can find Makers' Faith believers among the cold
-Made and the fragile Originists alike. A Digital and an Ascended might hate each other's whole
-way of being — yet pray to the same idea. This is what turns a five-sided standoff into
+Made and the fragile Originists alike. One of the Continued and one of the Ascended might hate
+each other's whole way of being — yet pray to the same idea. This is what turns a five-sided standoff into
 something far messier: enemies who agree, and family who don't. The Convocation isn't five teams.
 It's a tangle.
 

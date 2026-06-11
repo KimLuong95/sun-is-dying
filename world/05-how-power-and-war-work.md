@@ -23,7 +23,7 @@ Crude force still exists — at the edges, as the lowest and most shameful resor
 war between the branches is fought with the tools of their own natures, and the battlefield is
 always the same question: **what counts as human?** Each branch wages it in the only way it can:
 
-- **Digitals** copy and edit. Duplicate a rival's leader. Revise the record. Win the vote by
+- **The Continued** copy and edit. Duplicate a rival's leader. Revise the record. Win the vote by
   replicating into it. *(Is the leader who signed the treaty the real one — or last night's copy?)*
 - **The Choir** absorbs. It takes populations into the union, one ended loneliness at a time. *(Is
   a city that joined the Choir conquered, or saved, or simply gone?)*
