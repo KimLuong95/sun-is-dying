@@ -36,6 +36,19 @@ The goal isn't to show how clever the world is. It's to make the reader *forget 
 - A reader who's crying about Yara and Sela will believe any physics you want. A reader you've
   bored with physics won't care about anyone.
 
+## Deep time on the page (learned from the Ch.1–4 passes)
+Five billion years breaks normal worldbuilding tools. Four rules that survived contact:
+1. **No checkable numbers.** "Eleven thousand keepers" invites arithmetic that can't hold; "the
+   long line of them" can't be disproven and reads older. Vague-and-vast beats precise-and-wrong.
+2. **Seed what pays off.** Nothing big arrives unannounced — the lattice flinches (Ch.1) before
+   it's claimed (Ch.2) before it's weaponized (Ch.4). Track every plant in the
+   [threads ledger](../story/03-threads-ledger.md).
+3. **Witness what matters.** Scale lands through reactions in the room — one scream that stops
+   itself, a row of one daughter looking up — never through the narrator telling us it's big.
+4. **Ground each cosmic beat in one face or one object.** The sky goes out → a lamp somebody else
+   paid for. A species' succession crisis → a hand-axe that fits her palm. If a cosmic moment has
+   no object, it isn't ready to write.
+
 ## The test
 After a lore-heavy passage, ask: **could I cut the explanation and lose nothing the reader
 actually needs?** Usually yes. Cut it. Let them feel smart for keeping up.

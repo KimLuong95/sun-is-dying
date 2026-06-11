@@ -28,7 +28,9 @@ heart. She almost never says what she actually means the first time.
 
 ## The flaw
 She believes that if she just holds tightly enough, nothing will be lost. So she grips — and the
-gripping is exactly what drives them away.
+gripping is exactly what drives them away. **Where it was learned:** Yara was never meant to be
+Custodian — her elder sister Vesha was the heir, and walked into the Choir. The first thing Yara
+ever held was a post someone had let go of. (See [the joining](../vesha-choir/growth/01-the-joining.md).)
 
 ## Where she stands on Earth
 **Save it as it is, whatever it costs.** To Yara this isn't politics or even faith — it's the one

@@ -68,7 +68,7 @@ This is an epic told through one family. Whenever the scale gets too big to feel
 galaxy to the kitchen table. The ideas are carried by people or they are carried by no one.
 (Craft enforcement: [`/style`](style/00-voice-and-principles.md).)
 
-### Rule 7 — The anomaly is a mirror, not a fasit.
+### Rule 7 — The anomaly is a mirror, not an answer key.
 The origin-mystery (was the universe *made*?) must **never** be answered — not fully, maybe not at
 all. It is a mirror: every faith and every branch sees its own face in it, and no one gets full
 confirmation. The moment it has a "correct answer," the project shrinks from *"what do people do

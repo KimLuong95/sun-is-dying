@@ -10,7 +10,9 @@ that's deliberate (we never get inside the "we")
 
 ## Snapshot
 Before there was a wound between Yara and her children, there was Vesha — her older sister, who
-joined the Choir when they were both young. For most of Yara's life "Vesha" has been a held
+joined the Choir when they were both young. **And the part the family never says: Vesha was the
+heir. The keeping was hers**, and she examined it and put it down, and Yara inherited a post her
+sister had already walked away from. (Full beat: [the joining](growth/01-the-joining.md).) For most of Yara's life "Vesha" has been a held
 breath, a name that means *the first one I lost this way.* Now, for the Convocation, the Choir
 has sent a body to speak — and it is Vesha's. Same face, aged strangely. Same crooked smile. And
 behind the eyes, a thousand minds answering as one.

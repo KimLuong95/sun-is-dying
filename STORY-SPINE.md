@@ -134,7 +134,7 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 8 | Branch geography | **Largely separated** — each branch dominates its own kind of space | LOCKED |
 | 9 | Who holds Earth | **The Custodians (House Vael)** under an ancient, fraying mandate | LOCKED |
 | 10 | POV mechanics & prose voice | **Close third, one POV per scene**; full kit in [`/style`](style/00-voice-and-principles.md) | LOCKED |
-| 11 | Names (characters) | Working names set: Yara, Elias, Ren, Sela, Davin, Vesha (House Vael) | WORKING |
+| 11 | Names (characters) | **Author-endorsed:** Yara, Elias, Sela, Vael (keep); Ren, Davin (keep for now); Vesha flagged weakest, rename parked. "The Foremost" = title-as-name | LOCKED-ish |
 | 11b | Naming **system** | **Names = distance from baseline**: kept / drifted / functional; mapped to branch; no apostrophe-soup. See [`world/04`](world/04-names-and-language.md) | LOCKED |
 | 12 | The real catastrophe | **Clock broke (years, not centuries) · five fixes mutually exclusive & irreversible · Earth = last window on the origin-answer · inaction loses all.** See [`/story/00`](story/00-the-real-catastrophe.md) | PROPOSED (load-bearing) |
 | 13 | Book 1 outline | **Drafted** — Yara want/need + beat sheet; built on twists #3 & #8. See [`/story/02`](story/02-book-1-outline.md) | DRAFTED |
@@ -144,4 +144,7 @@ lives in the [constitution](CONSTITUTION.md#the-central-conflict-escalating-acro
 | 17 | Manuscript | Ch.1 (d5) · Ch.2 (d3) · Ch.3 (d2) · Ch.4 (d2) — coherence pass: Stone seeded in Ch1, lattice seeded in Ch2 (the early dusk explained), "the Foremost" named, Elias's absence chosen, Ch4 darkness witnessed | DRAFTING |
 | 18 | Legitimacy symbol | **The First Stone** — oldest human-made object; the heirship token; lifted only by the recognized heir; kept by the Custodians. See [`/factions/power-and-governance.md`](factions/power-and-governance.md) + Ch.3 | LOCKED |
 | 19 | Scale & tangible power | **Refusal has consequences** (per-branch leverage) + physically strange Earth (the shade-lattice, the rebuilt Moon); civilization felt beyond the family. See power file + Ch.4 | LOCKED |
-| 20 | Chapter 5 | Not started — fallout: the race begins; what Yara does with the Stone now in her hand | OPEN — next |
+| 20 | Outline v2 | **Stone absorbed into the plot spine**; Stone↔mirror convergence named as series design intent; Act I completion map (Ch.5–9); "Yara turns active" rule. See [`/story/02`](story/02-book-1-outline.md) | LOCKED |
+| 21 | Vesha was the heir | **The keeping was Vesha's; Yara is the replacement keeper** — origin of her gripping. See [the joining](characters/vesha-choir/growth/01-the-joining.md) | LOCKED |
+| 22 | Threads ledger | Every planted gun tracked in [`/story/03`](story/03-threads-ledger.md); update per chapter | PROCESS |
+| 23 | Chapter 5 "The Guests" | Not started — per Act I map | OPEN — next |

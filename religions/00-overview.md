@@ -33,6 +33,13 @@ our own selves* — and matter just as much.
 | **[Continuity](continuity.md)** | A copy isn't you; only the unbroken thread is. | Never sever the self — uploading is death. |
 | **[Children of Sol](children-of-sol.md)** | The Sun is our mother, and she is dying. | Witness her, preserve her, or die with her. |
 
+## How the book uses them (drafting note)
+Six faiths is a worldbuilding matrix, not a cast list. **On the page, Book 1 foregrounds three:**
+the Cradle (Yara's bones), Continuity (the Yara↔Sela wound), and the Children of Sol (the
+Faithful Dead, arriving to die with the star). The three cosmology faiths — Makers, Silence, Next
+Cause — stay background hum until the anomaly surfaces at the midpoint. Don't introduce a faith
+the reader hasn't met through a person.
+
 ## The important twist
 **Religion does not match the branches.** You can find Makers' Faith believers among the cold
 Made and the fragile Originists alike. A Digital and an Ascended might hate each other's whole

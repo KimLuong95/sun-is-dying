@@ -34,9 +34,17 @@ stay — is the engine. Everyone is a person first and a "branch" second.
 - **Yara ↔ Davin** — love that didn't end in hatred, which is worse. He still speaks gently. He
   just no longer believes in anything she'd die for.
 - **Yara ↔ Vesha** — the sister who solved loneliness by disappearing into a crowd. Yara can't
-  tell if she's talking to family or to the thing that ate her.
+  tell if she's talking to family or to the thing that ate her. **And the buried fact: Vesha was
+  the elder — the keeping was hers.** Yara is the replacement keeper; her gripping was learned the
+  day the real heir let go. (See [the joining](vesha-choir/growth/01-the-joining.md).)
 - **Yara ↔ Elias** — he is the family's forbidden secret: the one time these "we never change"
   people *did*, to keep him. He loves her and still won't help her win.
+
+## Beyond the family (recurring non-family figures)
+| Name | Branch | In one line |
+|---|---|---|
+| **[The Foremost](the-foremost/bio.md)** | Ascended | The Meritocracy's unnamed, unelected voice. The antagonist of ideas — forces tempo by being right. |
+| **The nine-bodied delegate** | Digital | One man, nine instances, each carrying a different thousand years of the same life. *(File when he grows past function.)* |
 
 ## The growth-file convention (important)
 Characters must *change* across the book and across their long lives, or they feel fake. So each
