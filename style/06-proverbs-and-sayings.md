@@ -31,6 +31,12 @@ Used wrong, they're fortune cookies. This file keeps them right.
 | *"Most of being a person is knowing where to put your hands."* | Ren | Ch.5 (echoes Ch.1) |
 | *"It did nothing. It only remembered."* | The Stone, in keeper's framing | Ch.3 |
 | *"We were never meant to be alone."* | The Choir's whole creed | factions doc / implicit Ch.3 |
+| *"You can copy a proof. You can't copy being believed."* | Sela | Ch.6 |
+| *"The water goes on; the river—"* (ending lost) | Elias — **deployed as designed, broken** | Ch.7 |
+| *"Cutting is also keeping."* | Elias / the keepers' dark side | Ch.7 |
+| *"Shade is a service."* | The Foundries | Ch.8 (epigraph + title) |
+| *"Stand where the light can find you…"* (pilgrim song) | The Faithful Dead | Ch.10 epigraph — sets up "every fire was lit from another fire" for the climax |
+| *"We're built like arguments. Eventually the body loses."* | Ren, on the Ascending | Ch.10 |
 
 ---
 

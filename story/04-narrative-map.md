@@ -28,13 +28,17 @@ start a war.
 **Must WONDER:** is Sela really Sela? What did Elias mean by "another one"? What will Yara do
 with the Stone? Why hasn't Sela come back?
 
-## Movement II — The Race Begins Politely (Ch. 6–10)
+## Movement II — The Race Begins Politely (Ch. 6–10) ✅ written
 **Goal:** the hidden stake appears, and Yara stops reacting.
-**KNOW:** there is a strange signal in the universe's deep structure (the anomaly) and Earth may
-be the last place it can be read; the Made's lattice triage forces every faction's plan onto a
-clock; Yara makes her own irreversible move (end of movement).
-**FEEL:** Yara needing the daughter she buried; the family pulling apart under courtesy.
-**WONDER:** what is the anomaly? What did the keepers before Yara know? What is Ren hiding?
+**KNOW (delivered):** the Pattern — named on the page — and Sela's whisper that it reads
+differently from Earth; the lattice triage ("shade is a service") putting every plan on a clock;
+the Binding — Yara's irreversible move: the choosing at the last sunset, the world sealed,
+touch = forfeit.
+**FEEL (delivered):** Yara says Sela's name (Ch.6); Ren's confession (Ch.10); Davin's
+unremovable protection (Ch.8).
+**WONDER (live):** what is the Pattern? "Forgive us. It worked" — what did the keepers do? Who
+un-killed the camps? "That was true the last time, too" — what last time?
+**Movement hook into III:** the miracle/theft — the Binding's loophole found within a day.
 
 ## Movement III — The Mirror (Ch. 11–16) — *midpoint movement*
 **Goal:** the cosmic stake lands and flips the board.

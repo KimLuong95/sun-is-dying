@@ -57,6 +57,48 @@ pilgrims (the Faithful Dead) have landed to die with the Sun — a sixth claim: 
 **RISK:** five visits could blur together → mitigated by hard variation (lengths, registers, one
 unopened door).
 
+## Ch. 6 — Your Name in Another Room
+**KNOWS:** the Pattern exists — an ancient, contested "looks meant" signature under reality;
+every faith is built on reading it; no one ever has *(primer epigraph)*. Sela found that from
+Earth it reads differently ("your name in another room") and told her mother before her own
+people — because belief can't be copied. If it gets out, Earth becomes an instrument. Yara said
+her daughter's name for the first time since the funeral.
+**WONDERS:** what does "from here" mean? What will Yara do with the most dangerous fact alive?
+What does "I didn't tell the rest of me" mean for the other Selas?
+
+## Ch. 7 — Another One
+**KNOWS:** the Sun lurched once before, long ago; afterwards the garden *died and was regrown* —
+Earth's "unbroken" nature is (per Elias) a restoration, and the keepers cut three seasons from
+their own records to hide it. The proverb that settled "is a regrown thing still itself" has
+lost its ending. Yara's mother knew — "Forgive us. It worked," in her hand, in the margins.
+**WONDERS:** is Elias right or fogged? What was cut? Which way did the proverb end? (Never
+answered.) What else did the mother know?
+
+## Ch. 8 — Shade Is a Service
+**KNOWS:** the lattice can no longer shade everything; the Foundries now choose, hour by hour,
+what stands in the sun *(notice epigraph)*. Every branch's "relief" is recruitment — exits, not
+shelter. Davin locked Yara/house/garden as unpetitionable protection long ago and refuses to
+remove it. The pilgrims formally petitioned to be unshaded first — the first request in history
+to ask for the sun.
+**WONDERS:** what stands in the sun? What will the petition force?
+
+## Ch. 9 — The Binding
+**KNOWS:** Yara acted: the choosing WILL happen — at Earth's final sunset, not before; until
+then the world is sealed (no scan, shell, harvest, song), and touching it forfeits the Stone
+forever. All five kinds assented — too smoothly. The unsigned hand (mother's) taught the move:
+"a keeper who only keeps will lose everything" *(epigraph)*.
+**WONDERS:** what does racing-in-the-dark look like? Elias: "That was true the last time, too" —
+what last time?
+
+## Ch. 10 — The Miracle
+**KNOWS:** Ren is dying — divergence, the ascension failing; he refuses every exit; that's why
+he came home. And overnight in the camps, the dying stopped dying — someone "repaired" a hundred
+thousand people who came to die, unasked; no kind claims it; the pilgrims call it *theft*. It
+exploits the Binding's loophole: people aren't the world.
+**WONDERS:** who did it? Can Ren be saved in a way he'd accept? What will the camps do?
+**RISK:** the miracle must not read as supernatural → Ren's law-reading line anchors it as a
+deliberate, skilled act by an unknown faction.
+
 ---
 
 ## Standing audit notes
